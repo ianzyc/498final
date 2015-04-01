@@ -51,6 +51,8 @@ def stemWords(listTokens):
 
 def getClassname(classnameFile):
     classname = {} # classname dict.
+    classnameList = []
+
     index = 0
     f = open(classnameFile)
     csv_f = csv.reader(f)
@@ -59,10 +61,11 @@ def getClassname(classnameFile):
         name = str(line[1])
         if name not in classname:
             classname[name] = index
+            classnameList.append(name)
             index += 1
     f.close()
 
-    return classname
+    return classname, classnameList
 
 def getVocabulary(trainFileName):
     vocabulary = {} # vocabulary dict.
@@ -149,7 +152,7 @@ if __name__ == '__main__':
     testFileName = 'ratemyProfessor_1.2/test_data'
     classnameFile = "ratemyProfessor_1.2/classname_map.csv"
 
-    classname = getClassname(classnameFile)
+    classname, classnameList = getClassname(classnameFile)
     vocabulary = getVocabulary(trainFileName)
     X_train, y, X_test, y_correct = extractFeature(trainFileName, testFileName, vocabulary, classname) # extract data
     clf = DecisionTreeClassifier(criterion='entropy').fit(X_train, y) # training
@@ -158,7 +161,7 @@ if __name__ == '__main__':
     total = len(y_predict)
     count = 0.0
     for i in range(total):
-        print 'prediction: ', y_predict[i], 'correct answer: ', y_correct[i]
+        print 'prediction: ', classnameList[int(y_predict[i])], 'correct answer: ', classnameList[int(y_correct[i])]
         if y_predict[i] == y_correct[i]:
             count += 1
     accuracy = 1.0 * count / total
