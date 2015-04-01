@@ -1,1713 +1,1713 @@
-prediction:  85.0 correct answer:  33.0
-prediction:  110.0 correct answer:  33.0
-prediction:  55.0 correct answer:  33.0
-prediction:  124.0 correct answer:  33.0
-prediction:  118.0 correct answer:  33.0
-prediction:  27.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  0.0 correct answer:  33.0
-prediction:  121.0 correct answer:  33.0
-prediction:  51.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  69.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  69.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  27.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  39.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  27.0 correct answer:  33.0
-prediction:  10.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  124.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  74.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  50.0 correct answer:  33.0
-prediction:  121.0 correct answer:  33.0
-prediction:  124.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  146.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  118.0 correct answer:  33.0
-prediction:  51.0 correct answer:  33.0
-prediction:  27.0 correct answer:  33.0
-prediction:  32.0 correct answer:  27.0
-prediction:  88.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  69.0 correct answer:  27.0
-prediction:  51.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  140.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  147.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  146.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  69.0 correct answer:  27.0
-prediction:  116.0 correct answer:  54.0
-prediction:  146.0 correct answer:  33.0
-prediction:  54.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  21.0 correct answer:  88.0
-prediction:  54.0 correct answer:  130.0
-prediction:  88.0 correct answer:  121.0
-prediction:  39.0 correct answer:  54.0
-prediction:  69.0 correct answer:  54.0
-prediction:  36.0 correct answer:  54.0
-prediction:  54.0 correct answer:  163.0
-prediction:  121.0 correct answer:  163.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  124.0 correct answer:  2.0
-prediction:  69.0 correct answer:  2.0
-prediction:  69.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  121.0 correct answer:  16.0
-prediction:  88.0 correct answer:  16.0
-prediction:  54.0 correct answer:  16.0
-prediction:  39.0 correct answer:  47.0
-prediction:  27.0 correct answer:  47.0
-prediction:  118.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  88.0 correct answer:  47.0
-prediction:  3.0 correct answer:  152.0
-prediction:  124.0 correct answer:  152.0
-prediction:  85.0 correct answer:  51.0
-prediction:  124.0 correct answer:  51.0
-prediction:  27.0 correct answer:  51.0
-prediction:  118.0 correct answer:  51.0
-prediction:  20.0 correct answer:  51.0
-prediction:  85.0 correct answer:  51.0
-prediction:  85.0 correct answer:  51.0
-prediction:  121.0 correct answer:  124.0
-prediction:  121.0 correct answer:  124.0
-prediction:  50.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  9.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  145.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  51.0 correct answer:  99.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  160.0
-prediction:  58.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  61.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  150.0 correct answer:  56.0
-prediction:  146.0 correct answer:  56.0
-prediction:  146.0 correct answer:  56.0
-prediction:  56.0 correct answer:  56.0
-prediction:  51.0 correct answer:  56.0
-prediction:  163.0 correct answer:  56.0
-prediction:  85.0 correct answer:  56.0
-prediction:  39.0 correct answer:  56.0
-prediction:  16.0 correct answer:  56.0
-prediction:  163.0 correct answer:  56.0
-prediction:  20.0 correct answer:  56.0
-prediction:  49.0 correct answer:  56.0
-prediction:  116.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  121.0 correct answer:  116.0
-prediction:  5.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  33.0 correct answer:  116.0
-prediction:  33.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  129.0 correct answer:  116.0
-prediction:  118.0 correct answer:  116.0
-prediction:  62.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  27.0 correct answer:  77.0
-prediction:  95.0 correct answer:  2.0
-prediction:  110.0 correct answer:  136.0
-prediction:  27.0 correct answer:  136.0
-prediction:  85.0 correct answer:  136.0
-prediction:  54.0 correct answer:  27.0
-prediction:  74.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  55.0 correct answer:  27.0
-prediction:  145.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  116.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  145.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  27.0 correct answer:  50.0
-prediction:  88.0 correct answer:  27.0
-prediction:  54.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  152.0 correct answer:  54.0
-prediction:  69.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  162.0 correct answer:  54.0
-prediction:  39.0 correct answer:  54.0
-prediction:  83.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  2.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  116.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  83.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  63.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  74.0 correct answer:  54.0
-prediction:  39.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  163.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  145.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  27.0 correct answer:  54.0
-prediction:  33.0 correct answer:  54.0
-prediction:  22.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  116.0 correct answer:  27.0
-prediction:  88.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  74.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  16.0 correct answer:  27.0
-prediction:  145.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  40.0 correct answer:  27.0
-prediction:  74.0 correct answer:  27.0
-prediction:  62.0 correct answer:  27.0
-prediction:  116.0 correct answer:  27.0
-prediction:  145.0 correct answer:  27.0
-prediction:  162.0 correct answer:  45.0
-prediction:  54.0 correct answer:  45.0
-prediction:  54.0 correct answer:  45.0
-prediction:  63.0 correct answer:  45.0
-prediction:  54.0 correct answer:  45.0
-prediction:  124.0 correct answer:  45.0
-prediction:  145.0 correct answer:  45.0
-prediction:  49.0 correct answer:  45.0
-prediction:  54.0 correct answer:  45.0
-prediction:  146.0 correct answer:  45.0
-prediction:  14.0 correct answer:  45.0
-prediction:  124.0 correct answer:  45.0
-prediction:  47.0 correct answer:  45.0
-prediction:  39.0 correct answer:  45.0
-prediction:  16.0 correct answer:  45.0
-prediction:  9.0 correct answer:  45.0
-prediction:  85.0 correct answer:  45.0
-prediction:  146.0 correct answer:  45.0
-prediction:  33.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  116.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  163.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  163.0 correct answer:  116.0
-prediction:  27.0 correct answer:  116.0
-prediction:  146.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  146.0 correct answer:  154.0
-prediction:  85.0 correct answer:  147.0
-prediction:  85.0 correct answer:  145.0
-prediction:  54.0 correct answer:  145.0
-prediction:  5.0 correct answer:  55.0
-prediction:  124.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  124.0 correct answer:  55.0
-prediction:  124.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  124.0 correct answer:  55.0
-prediction:  33.0 correct answer:  55.0
-prediction:  39.0 correct answer:  54.0
-prediction:  55.0 correct answer:  54.0
-prediction:  47.0 correct answer:  54.0
-prediction:  55.0 correct answer:  54.0
-prediction:  14.0 correct answer:  54.0
-prediction:  41.0 correct answer:  55.0
-prediction:  85.0 correct answer:  54.0
-prediction:  146.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  99.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  163.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  145.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  33.0 correct answer:  145.0
-prediction:  162.0 correct answer:  145.0
-prediction:  121.0 correct answer:  145.0
-prediction:  40.0 correct answer:  145.0
-prediction:  47.0 correct answer:  145.0
-prediction:  140.0 correct answer:  83.0
-prediction:  47.0 correct answer:  83.0
-prediction:  27.0 correct answer:  83.0
-prediction:  36.0 correct answer:  83.0
-prediction:  124.0 correct answer:  83.0
-prediction:  40.0 correct answer:  83.0
-prediction:  39.0 correct answer:  83.0
-prediction:  20.0 correct answer:  83.0
-prediction:  146.0 correct answer:  83.0
-prediction:  83.0 correct answer:  83.0
-prediction:  124.0 correct answer:  83.0
-prediction:  124.0 correct answer:  83.0
-prediction:  27.0 correct answer:  83.0
-prediction:  85.0 correct answer:  83.0
-prediction:  118.0 correct answer:  83.0
-prediction:  40.0 correct answer:  83.0
-prediction:  69.0 correct answer:  83.0
-prediction:  54.0 correct answer:  83.0
-prediction:  146.0 correct answer:  83.0
-prediction:  5.0 correct answer:  141.0
-prediction:  54.0 correct answer:  141.0
-prediction:  10.0 correct answer:  141.0
-prediction:  69.0 correct answer:  141.0
-prediction:  139.0 correct answer:  141.0
-prediction:  124.0 correct answer:  141.0
-prediction:  54.0 correct answer:  141.0
-prediction:  54.0 correct answer:  90.0
-prediction:  85.0 correct answer:  141.0
-prediction:  85.0 correct answer:  63.0
-prediction:  39.0 correct answer:  141.0
-prediction:  54.0 correct answer:  141.0
-prediction:  54.0 correct answer:  90.0
-prediction:  47.0 correct answer:  141.0
-prediction:  49.0 correct answer:  141.0
-prediction:  20.0 correct answer:  141.0
-prediction:  69.0 correct answer:  141.0
-prediction:  47.0 correct answer:  0.0
-prediction:  69.0 correct answer:  0.0
-prediction:  69.0 correct answer:  0.0
-prediction:  27.0 correct answer:  0.0
-prediction:  163.0 correct answer:  0.0
-prediction:  69.0 correct answer:  0.0
-prediction:  121.0 correct answer:  0.0
-prediction:  51.0 correct answer:  0.0
-prediction:  145.0 correct answer:  0.0
-prediction:  162.0 correct answer:  0.0
-prediction:  145.0 correct answer:  0.0
-prediction:  69.0 correct answer:  121.0
-prediction:  5.0 correct answer:  121.0
-prediction:  51.0 correct answer:  121.0
-prediction:  39.0 correct answer:  121.0
-prediction:  75.0 correct answer:  121.0
-prediction:  88.0 correct answer:  121.0
-prediction:  163.0 correct answer:  121.0
-prediction:  145.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  146.0 correct answer:  121.0
-prediction:  145.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  143.0 correct answer:  121.0
-prediction:  146.0 correct answer:  121.0
-prediction:  140.0 correct answer:  121.0
-prediction:  121.0 correct answer:  32.0
-prediction:  69.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  16.0 correct answer:  9.0
-prediction:  33.0 correct answer:  83.0
-prediction:  124.0 correct answer:  83.0
-prediction:  47.0 correct answer:  83.0
-prediction:  124.0 correct answer:  163.0
-prediction:  69.0 correct answer:  83.0
-prediction:  39.0 correct answer:  83.0
-prediction:  118.0 correct answer:  83.0
-prediction:  27.0 correct answer:  83.0
-prediction:  27.0 correct answer:  83.0
-prediction:  121.0 correct answer:  83.0
-prediction:  39.0 correct answer:  83.0
-prediction:  40.0 correct answer:  83.0
-prediction:  54.0 correct answer:  83.0
-prediction:  87.0 correct answer:  83.0
-prediction:  54.0 correct answer:  83.0
-prediction:  54.0 correct answer:  83.0
-prediction:  145.0 correct answer:  83.0
-prediction:  54.0 correct answer:  83.0
-prediction:  33.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  27.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  85.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  54.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  51.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  59.0 correct answer:  146.0
-prediction:  54.0 correct answer:  18.0
-prediction:  33.0 correct answer:  17.0
-prediction:  145.0 correct answer:  17.0
-prediction:  83.0 correct answer:  18.0
-prediction:  146.0 correct answer:  18.0
-prediction:  46.0 correct answer:  40.0
-prediction:  124.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  61.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  147.0 correct answer:  40.0
-prediction:  27.0 correct answer:  40.0
-prediction:  121.0 correct answer:  40.0
-prediction:  88.0 correct answer:  40.0
-prediction:  51.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  16.0 correct answer:  40.0
-prediction:  40.0 correct answer:  40.0
-prediction:  116.0 correct answer:  40.0
-prediction:  85.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  124.0 correct answer:  40.0
-prediction:  27.0 correct answer:  95.0
-prediction:  145.0 correct answer:  95.0
-prediction:  27.0 correct answer:  95.0
-prediction:  110.0 correct answer:  95.0
-prediction:  88.0 correct answer:  95.0
-prediction:  85.0 correct answer:  95.0
-prediction:  88.0 correct answer:  95.0
-prediction:  32.0 correct answer:  95.0
-prediction:  145.0 correct answer:  95.0
-prediction:  54.0 correct answer:  95.0
-prediction:  83.0 correct answer:  95.0
-prediction:  95.0 correct answer:  95.0
-prediction:  5.0 correct answer:  95.0
-prediction:  146.0 correct answer:  95.0
-prediction:  22.0 correct answer:  95.0
-prediction:  85.0 correct answer:  95.0
-prediction:  69.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  88.0 correct answer:  54.0
-prediction:  16.0 correct answer:  54.0
-prediction:  118.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  74.0 correct answer:  54.0
-prediction:  90.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  121.0 correct answer:  54.0
-prediction:  110.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  88.0 correct answer:  54.0
-prediction:  69.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  145.0 correct answer:  124.0
-prediction:  20.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  47.0 correct answer:  124.0
-prediction:  61.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  49.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  33.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  51.0 correct answer:  124.0
-prediction:  47.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  74.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  13.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  110.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  27.0 correct answer:  47.0
-prediction:  110.0 correct answer:  47.0
-prediction:  88.0 correct answer:  47.0
-prediction:  51.0 correct answer:  47.0
-prediction:  163.0 correct answer:  47.0
-prediction:  47.0 correct answer:  47.0
-prediction:  51.0 correct answer:  47.0
-prediction:  85.0 correct answer:  47.0
-prediction:  8.0 correct answer:  47.0
-prediction:  146.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  51.0 correct answer:  47.0
-prediction:  124.0 correct answer:  47.0
-prediction:  33.0 correct answer:  47.0
-prediction:  55.0 correct answer:  51.0
-prediction:  118.0 correct answer:  51.0
-prediction:  146.0 correct answer:  51.0
-prediction:  69.0 correct answer:  51.0
-prediction:  54.0 correct answer:  51.0
-prediction:  121.0 correct answer:  51.0
-prediction:  85.0 correct answer:  51.0
-prediction:  85.0 correct answer:  51.0
-prediction:  33.0 correct answer:  51.0
-prediction:  33.0 correct answer:  51.0
-prediction:  124.0 correct answer:  51.0
-prediction:  27.0 correct answer:  51.0
-prediction:  24.0 correct answer:  51.0
-prediction:  110.0 correct answer:  51.0
-prediction:  88.0 correct answer:  51.0
-prediction:  54.0 correct answer:  51.0
-prediction:  69.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  0.0 correct answer:  116.0
-prediction:  85.0 correct answer:  121.0
-prediction:  85.0 correct answer:  116.0
-prediction:  121.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  163.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  146.0 correct answer:  116.0
-prediction:  121.0 correct answer:  116.0
-prediction:  1.0 correct answer:  146.0
-prediction:  162.0 correct answer:  146.0
-prediction:  27.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  54.0 correct answer:  146.0
-prediction:  159.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  40.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  54.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  40.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  85.0 correct answer:  146.0
-prediction:  69.0 correct answer:  69.0
-prediction:  32.0 correct answer:  69.0
-prediction:  124.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  63.0 correct answer:  69.0
-prediction:  124.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  163.0 correct answer:  69.0
-prediction:  74.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  88.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  39.0 correct answer:  69.0
-prediction:  17.0 correct answer:  69.0
-prediction:  85.0 correct answer:  69.0
-prediction:  69.0 correct answer:  5.0
-prediction:  54.0 correct answer:  146.0
-prediction:  116.0 correct answer:  132.0
-prediction:  146.0 correct answer:  146.0
-prediction:  145.0 correct answer:  146.0
-prediction:  116.0 correct answer:  146.0
-prediction:  54.0 correct answer:  130.0
-prediction:  14.0 correct answer:  124.0
-prediction:  68.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  62.0 correct answer:  124.0
-prediction:  47.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  36.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  129.0 correct answer:  124.0
-prediction:  33.0 correct answer:  124.0
-prediction:  61.0 correct answer:  124.0
-prediction:  83.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  140.0 correct answer:  124.0
-prediction:  47.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  150.0 correct answer:  85.0
-prediction:  85.0 correct answer:  55.0
-prediction:  61.0 correct answer:  55.0
-prediction:  85.0 correct answer:  54.0
-prediction:  85.0 correct answer:  55.0
-prediction:  145.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  46.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  55.0
-prediction:  69.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  49.0 correct answer:  54.0
-prediction:  24.0 correct answer:  27.0
-prediction:  51.0 correct answer:  33.0
-prediction:  145.0 correct answer:  44.0
-prediction:  54.0 correct answer:  44.0
-prediction:  85.0 correct answer:  76.0
-prediction:  55.0 correct answer:  44.0
-prediction:  49.0 correct answer:  44.0
-prediction:  69.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  121.0 correct answer:  22.0
-prediction:  54.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  162.0 correct answer:  27.0
-prediction:  55.0 correct answer:  27.0
-prediction:  116.0 correct answer:  27.0
-prediction:  63.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  27.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  109.0 correct answer:  85.0
-prediction:  110.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  162.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  83.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  87.0 correct answer:  69.0
-prediction:  162.0 correct answer:  69.0
-prediction:  63.0 correct answer:  69.0
-prediction:  5.0 correct answer:  69.0
-prediction:  116.0 correct answer:  69.0
-prediction:  63.0 correct answer:  69.0
-prediction:  27.0 correct answer:  69.0
-prediction:  129.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  69.0 correct answer:  0.0
-prediction:  121.0 correct answer:  0.0
-prediction:  162.0 correct answer:  69.0
-prediction:  36.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  85.0 correct answer:  2.0
-prediction:  121.0 correct answer:  2.0
-prediction:  116.0 correct answer:  80.0
-prediction:  162.0 correct answer:  80.0
-prediction:  88.0 correct answer:  80.0
-prediction:  63.0 correct answer:  80.0
-prediction:  14.0 correct answer:  80.0
-prediction:  85.0 correct answer:  80.0
-prediction:  55.0 correct answer:  80.0
-prediction:  124.0 correct answer:  80.0
-prediction:  51.0 correct answer:  80.0
-prediction:  118.0 correct answer:  80.0
-prediction:  85.0 correct answer:  80.0
-prediction:  85.0 correct answer:  80.0
-prediction:  13.0 correct answer:  80.0
-prediction:  54.0 correct answer:  69.0
-prediction:  95.0 correct answer:  69.0
-prediction:  54.0 correct answer:  69.0
-prediction:  85.0 correct answer:  27.0
-prediction:  55.0 correct answer:  27.0
-prediction:  88.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  162.0 correct answer:  27.0
-prediction:  51.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  69.0 correct answer:  27.0
-prediction:  20.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  112.0 correct answer:  27.0
-prediction:  85.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  124.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  54.0 correct answer:  51.0
-prediction:  27.0 correct answer:  51.0
-prediction:  61.0 correct answer:  51.0
-prediction:  85.0 correct answer:  49.0
-prediction:  54.0 correct answer:  49.0
-prediction:  61.0 correct answer:  49.0
-prediction:  88.0 correct answer:  49.0
-prediction:  145.0 correct answer:  49.0
-prediction:  63.0 correct answer:  49.0
-prediction:  85.0 correct answer:  49.0
-prediction:  124.0 correct answer:  49.0
-prediction:  163.0 correct answer:  162.0
-prediction:  159.0 correct answer:  162.0
-prediction:  118.0 correct answer:  162.0
-prediction:  33.0 correct answer:  162.0
-prediction:  116.0 correct answer:  162.0
-prediction:  27.0 correct answer:  162.0
-prediction:  124.0 correct answer:  162.0
-prediction:  116.0 correct answer:  54.0
-prediction:  85.0 correct answer:  162.0
-prediction:  54.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  116.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  69.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  3.0 correct answer:  85.0
-prediction:  163.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  162.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  124.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  36.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  54.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  163.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  145.0 correct answer:  124.0
-prediction:  145.0 correct answer:  124.0
-prediction:  118.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  74.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  88.0 correct answer:  162.0
-prediction:  27.0 correct answer:  162.0
-prediction:  33.0 correct answer:  162.0
-prediction:  51.0 correct answer:  162.0
-prediction:  36.0 correct answer:  162.0
-prediction:  124.0 correct answer:  54.0
-prediction:  74.0 correct answer:  54.0
-prediction:  33.0 correct answer:  54.0
-prediction:  69.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  147.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  55.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  3.0
-prediction:  51.0 correct answer:  3.0
-prediction:  85.0 correct answer:  3.0
-prediction:  146.0 correct answer:  3.0
-prediction:  47.0 correct answer:  3.0
-prediction:  85.0 correct answer:  3.0
-prediction:  51.0 correct answer:  3.0
-prediction:  69.0 correct answer:  47.0
-prediction:  85.0 correct answer:  47.0
-prediction:  85.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  124.0 correct answer:  47.0
-prediction:  27.0 correct answer:  47.0
-prediction:  69.0 correct answer:  47.0
-prediction:  63.0 correct answer:  47.0
-prediction:  147.0 correct answer:  47.0
-prediction:  3.0 correct answer:  47.0
-prediction:  162.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  145.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  20.0 correct answer:  85.0
-prediction:  85.0 correct answer:  51.0
-prediction:  51.0 correct answer:  51.0
-prediction:  54.0 correct answer:  51.0
-prediction:  51.0 correct answer:  51.0
-prediction:  54.0 correct answer:  51.0
-prediction:  51.0 correct answer:  51.0
-prediction:  118.0 correct answer:  51.0
-prediction:  118.0 correct answer:  47.0
-prediction:  69.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  124.0 correct answer:  47.0
-prediction:  47.0 correct answer:  47.0
-prediction:  88.0 correct answer:  47.0
-prediction:  54.0 correct answer:  47.0
-prediction:  24.0 correct answer:  47.0
-prediction:  69.0 correct answer:  47.0
-prediction:  54.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  124.0 correct answer:  146.0
-prediction:  16.0 correct answer:  146.0
-prediction:  54.0 correct answer:  146.0
-prediction:  61.0 correct answer:  146.0
-prediction:  74.0 correct answer:  146.0
-prediction:  118.0 correct answer:  146.0
-prediction:  85.0 correct answer:  146.0
-prediction:  54.0 correct answer:  54.0
-prediction:  116.0 correct answer:  54.0
-prediction:  141.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  118.0 correct answer:  54.0
-prediction:  33.0 correct answer:  121.0
-prediction:  163.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  5.0 correct answer:  121.0
-prediction:  33.0 correct answer:  121.0
-prediction:  5.0 correct answer:  121.0
-prediction:  5.0 correct answer:  121.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  5.0 correct answer:  85.0
-prediction:  55.0 correct answer:  85.0
-prediction:  146.0 correct answer:  85.0
-prediction:  69.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  16.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  4.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  69.0 correct answer:  85.0
-prediction:  32.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  47.0 correct answer:  147.0
-prediction:  54.0 correct answer:  147.0
-prediction:  124.0 correct answer:  147.0
-prediction:  150.0 correct answer:  121.0
-prediction:  27.0 correct answer:  147.0
-prediction:  39.0 correct answer:  121.0
-prediction:  95.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  54.0 correct answer:  121.0
-prediction:  118.0 correct answer:  118.0
-prediction:  145.0 correct answer:  118.0
-prediction:  85.0 correct answer:  118.0
-prediction:  118.0 correct answer:  118.0
-prediction:  85.0 correct answer:  118.0
-prediction:  110.0 correct answer:  118.0
-prediction:  118.0 correct answer:  118.0
-prediction:  88.0 correct answer:  1.0
-prediction:  163.0 correct answer:  1.0
-prediction:  85.0 correct answer:  16.0
-prediction:  116.0 correct answer:  118.0
-prediction:  33.0 correct answer:  118.0
-prediction:  124.0 correct answer:  118.0
-prediction:  85.0 correct answer:  118.0
-prediction:  85.0 correct answer:  118.0
-prediction:  33.0 correct answer:  118.0
-prediction:  56.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  85.0 correct answer:  146.0
-prediction:  146.0 correct answer:  146.0
-prediction:  145.0 correct answer:  146.0
-prediction:  85.0 correct answer:  146.0
-prediction:  69.0 correct answer:  14.0
-prediction:  27.0 correct answer:  163.0
-prediction:  69.0 correct answer:  163.0
-prediction:  85.0 correct answer:  163.0
-prediction:  85.0 correct answer:  9.0
-prediction:  54.0 correct answer:  47.0
-prediction:  116.0 correct answer:  47.0
-prediction:  85.0 correct answer:  47.0
-prediction:  146.0 correct answer:  47.0
-prediction:  143.0 correct answer:  85.0
-prediction:  32.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  62.0 correct answer:  121.0
-prediction:  17.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  145.0 correct answer:  121.0
-prediction:  69.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  116.0 correct answer:  121.0
-prediction:  39.0 correct answer:  121.0
-prediction:  54.0 correct answer:  82.0
-prediction:  54.0 correct answer:  82.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  82.0
-prediction:  54.0 correct answer:  82.0
-prediction:  54.0 correct answer:  54.0
-prediction:  51.0 correct answer:  39.0
-prediction:  33.0 correct answer:  39.0
-prediction:  47.0 correct answer:  33.0
-prediction:  27.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  124.0 correct answer:  33.0
-prediction:  124.0 correct answer:  124.0
-prediction:  61.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  51.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  110.0 correct answer:  124.0
-prediction:  163.0 correct answer:  87.0
-prediction:  124.0 correct answer:  27.0
-prediction:  51.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  118.0 correct answer:  46.0
-prediction:  124.0 correct answer:  46.0
-prediction:  145.0 correct answer:  46.0
-prediction:  51.0 correct answer:  46.0
-prediction:  124.0 correct answer:  46.0
-prediction:  27.0 correct answer:  62.0
-prediction:  146.0 correct answer:  56.0
-prediction:  40.0 correct answer:  56.0
-prediction:  51.0 correct answer:  56.0
-prediction:  85.0 correct answer:  56.0
-prediction:  54.0 correct answer:  56.0
-prediction:  146.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  22.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  116.0 correct answer:  85.0
-prediction:  27.0 correct answer:  116.0
-prediction:  121.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  24.0 correct answer:  116.0
-prediction:  85.0 correct answer:  31.0
-prediction:  20.0 correct answer:  31.0
-prediction:  85.0 correct answer:  31.0
-prediction:  85.0 correct answer:  31.0
-prediction:  63.0 correct answer:  31.0
-prediction:  85.0 correct answer:  31.0
-prediction:  85.0 correct answer:  54.0
-prediction:  47.0 correct answer:  54.0
-prediction:  27.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  74.0 correct answer:  54.0
-prediction:  85.0 correct answer:  31.0
-prediction:  51.0 correct answer:  31.0
-prediction:  85.0 correct answer:  31.0
-prediction:  51.0 correct answer:  31.0
-prediction:  85.0 correct answer:  31.0
-prediction:  88.0 correct answer:  31.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  10.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  146.0 correct answer:  85.0
-prediction:  124.0 correct answer:  124.0
-prediction:  40.0 correct answer:  124.0
-prediction:  5.0 correct answer:  124.0
-prediction:  163.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  54.0 correct answer:  68.0
-prediction:  54.0 correct answer:  69.0
-prediction:  145.0 correct answer:  74.0
-prediction:  116.0 correct answer:  74.0
-prediction:  33.0 correct answer:  74.0
-prediction:  85.0 correct answer:  74.0
-prediction:  124.0 correct answer:  74.0
-prediction:  51.0 correct answer:  74.0
-prediction:  54.0 correct answer:  156.0
-prediction:  10.0 correct answer:  143.0
-prediction:  146.0 correct answer:  143.0
-prediction:  54.0 correct answer:  143.0
-prediction:  51.0 correct answer:  143.0
-prediction:  17.0 correct answer:  99.0
-prediction:  121.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  124.0 correct answer:  160.0
-prediction:  51.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  124.0 correct answer:  51.0
-prediction:  33.0 correct answer:  54.0
-prediction:  47.0 correct answer:  54.0
-prediction:  27.0 correct answer:  55.0
-prediction:  124.0 correct answer:  51.0
-prediction:  54.0 correct answer:  62.0
-prediction:  62.0 correct answer:  62.0
-prediction:  85.0 correct answer:  62.0
-prediction:  88.0 correct answer:  62.0
-prediction:  146.0 correct answer:  145.0
-prediction:  145.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  85.0 correct answer:  18.0
-prediction:  140.0 correct answer:  18.0
-prediction:  55.0 correct answer:  18.0
-prediction:  51.0 correct answer:  18.0
-prediction:  85.0 correct answer:  56.0
-prediction:  85.0 correct answer:  56.0
-prediction:  47.0 correct answer:  74.0
-prediction:  47.0 correct answer:  74.0
-prediction:  124.0 correct answer:  74.0
-prediction:  20.0 correct answer:  74.0
-prediction:  47.0 correct answer:  74.0
-prediction:  85.0 correct answer:  29.0
-prediction:  55.0 correct answer:  29.0
-prediction:  85.0 correct answer:  85.0
-prediction:  49.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  145.0 correct answer:  54.0
-prediction:  49.0 correct answer:  54.0
-prediction:  51.0 correct answer:  27.0
-prediction:  136.0 correct answer:  121.0
-prediction:  27.0 correct answer:  121.0
-prediction:  39.0 correct answer:  61.0
-prediction:  51.0 correct answer:  61.0
-prediction:  61.0 correct answer:  61.0
-prediction:  52.0 correct answer:  61.0
-prediction:  17.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  124.0 correct answer:  121.0
-prediction:  27.0 correct answer:  121.0
-prediction:  163.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  40.0 correct answer:  116.0
-prediction:  51.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  121.0 correct answer:  163.0
-prediction:  54.0 correct answer:  163.0
-prediction:  118.0 correct answer:  163.0
-prediction:  5.0 correct answer:  163.0
-prediction:  163.0 correct answer:  126.0
-prediction:  85.0 correct answer:  47.0
-prediction:  129.0 correct answer:  54.0
-prediction:  163.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  163.0 correct answer:  54.0
-prediction:  85.0 correct answer:  88.0
-prediction:  69.0 correct answer:  88.0
-prediction:  33.0 correct answer:  88.0
-prediction:  140.0 correct answer:  55.0
-prediction:  124.0 correct answer:  39.0
-prediction:  146.0 correct answer:  39.0
-prediction:  121.0 correct answer:  39.0
-prediction:  124.0 correct answer:  150.0
-prediction:  39.0 correct answer:  150.0
-prediction:  146.0 correct answer:  145.0
-prediction:  150.0 correct answer:  145.0
-prediction:  55.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  54.0 correct answer:  63.0
-prediction:  85.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  47.0 correct answer:  121.0
-prediction:  85.0 correct answer:  69.0
-prediction:  85.0 correct answer:  69.0
-prediction:  88.0 correct answer:  69.0
-prediction:  124.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  69.0 correct answer:  124.0
-prediction:  124.0 correct answer:  162.0
-prediction:  54.0 correct answer:  162.0
-prediction:  121.0 correct answer:  162.0
-prediction:  124.0 correct answer:  162.0
-prediction:  124.0 correct answer:  146.0
-prediction:  63.0 correct answer:  146.0
-prediction:  27.0 correct answer:  146.0
-prediction:  162.0 correct answer:  85.0
-prediction:  55.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  88.0 correct answer:  51.0
-prediction:  132.0 correct answer:  51.0
-prediction:  20.0 correct answer:  51.0
-prediction:  51.0 correct answer:  88.0
-prediction:  27.0 correct answer:  88.0
-prediction:  69.0 correct answer:  88.0
-prediction:  54.0 correct answer:  54.0
-prediction:  27.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  145.0 correct answer:  124.0
-prediction:  33.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  85.0 correct answer:  5.0
-prediction:  146.0 correct answer:  159.0
-prediction:  69.0 correct answer:  159.0
-prediction:  85.0 correct answer:  159.0
-prediction:  85.0 correct answer:  146.0
-prediction:  54.0 correct answer:  146.0
-prediction:  51.0 correct answer:  85.0
-prediction:  26.0 correct answer:  85.0
-prediction:  69.0 correct answer:  20.0
-prediction:  124.0 correct answer:  20.0
-prediction:  47.0 correct answer:  61.0
-prediction:  69.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  69.0 correct answer:  150.0
-prediction:  61.0 correct answer:  150.0
-prediction:  85.0 correct answer:  18.0
-prediction:  54.0 correct answer:  18.0
-prediction:  69.0 correct answer:  54.0
-prediction:  124.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  121.0 correct answer:  14.0
-prediction:  54.0 correct answer:  14.0
-prediction:  69.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  121.0 correct answer:  163.0
-prediction:  33.0 correct answer:  163.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  18.0
-prediction:  85.0 correct answer:  18.0
-prediction:  20.0 correct answer:  121.0
-prediction:  39.0 correct answer:  121.0
-prediction:  33.0 correct answer:  124.0
-prediction:  118.0 correct answer:  124.0
-prediction:  33.0 correct answer:  118.0
-prediction:  74.0 correct answer:  118.0
-prediction:  124.0 correct answer:  153.0
-prediction:  85.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  162.0 correct answer:  124.0
-prediction:  85.0 correct answer:  146.0
-prediction:  85.0 correct answer:  47.0
-prediction:  121.0 correct answer:  33.0
-prediction:  85.0 correct answer:  3.0
-prediction:  54.0 correct answer:  145.0
-prediction:  54.0 correct answer:  32.0
-prediction:  33.0 correct answer:  33.0
-prediction:  146.0 correct answer:  83.0
-prediction:  69.0 correct answer:  50.0
-prediction:  85.0 correct answer:  51.0
-prediction:  9.0 correct answer:  129.0
-prediction:  146.0 correct answer:  146.0
-prediction:  146.0 correct answer:  124.0
-prediction:  83.0 correct answer:  49.0
-prediction:  124.0 correct answer:  69.0
-prediction:  82.0 correct answer:  85.0
-prediction:  121.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  54.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  124.0 correct answer:  69.0
-prediction:  5.0 correct answer:  69.0
-prediction:  130.0 correct answer:  69.0
-prediction:  5.0 correct answer:  69.0
-prediction:  124.0 correct answer:  69.0
-prediction:  143.0 correct answer:  69.0
-prediction:  69.0 correct answer:  69.0
-prediction:  145.0 correct answer:  69.0
-prediction:  118.0 correct answer:  88.0
-prediction:  51.0 correct answer:  88.0
-prediction:  69.0 correct answer:  88.0
-prediction:  47.0 correct answer:  88.0
-prediction:  85.0 correct answer:  88.0
-prediction:  85.0 correct answer:  88.0
-prediction:  95.0 correct answer:  88.0
-prediction:  51.0 correct answer:  88.0
-prediction:  33.0 correct answer:  88.0
-prediction:  87.0 correct answer:  88.0
-prediction:  33.0 correct answer:  88.0
-prediction:  13.0 correct answer:  88.0
-prediction:  51.0 correct answer:  88.0
-prediction:  85.0 correct answer:  88.0
-prediction:  85.0 correct answer:  88.0
-prediction:  51.0 correct answer:  88.0
-prediction:  33.0 correct answer:  88.0
-prediction:  54.0 correct answer:  88.0
-prediction:  27.0 correct answer:  88.0
-prediction:  33.0 correct answer:  88.0
-prediction:  24.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  145.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  40.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  16.0 correct answer:  85.0
-prediction:  69.0 correct answer:  85.0
-prediction:  27.0 correct answer:  124.0
-prediction:  31.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  145.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  33.0 correct answer:  124.0
-prediction:  47.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  85.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  162.0 correct answer:  124.0
-prediction:  61.0 correct answer:  124.0
-prediction:  162.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  124.0 correct answer:  124.0
-prediction:  27.0 correct answer:  124.0
-prediction:  146.0 correct answer:  124.0
-prediction:  146.0 correct answer:  124.0
-prediction:  51.0 correct answer:  36.0
-prediction:  17.0 correct answer:  36.0
-prediction:  69.0 correct answer:  36.0
-prediction:  39.0 correct answer:  36.0
-prediction:  46.0 correct answer:  36.0
-prediction:  55.0 correct answer:  36.0
-prediction:  47.0 correct answer:  36.0
-prediction:  69.0 correct answer:  36.0
-prediction:  61.0 correct answer:  36.0
-prediction:  124.0 correct answer:  36.0
-prediction:  124.0 correct answer:  36.0
-prediction:  116.0 correct answer:  36.0
-prediction:  124.0 correct answer:  36.0
-prediction:  85.0 correct answer:  36.0
-prediction:  124.0 correct answer:  36.0
-prediction:  54.0 correct answer:  36.0
-prediction:  39.0 correct answer:  36.0
-prediction:  54.0 correct answer:  80.0
-prediction:  124.0 correct answer:  36.0
-prediction:  85.0 correct answer:  36.0
-prediction:  40.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  5.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  121.0 correct answer:  54.0
-prediction:  163.0 correct answer:  54.0
-prediction:  31.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  162.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  140.0 correct answer:  54.0
-prediction:  118.0 correct answer:  54.0
-prediction:  20.0 correct answer:  54.0
-prediction:  145.0 correct answer:  116.0
-prediction:  145.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  140.0 correct answer:  116.0
-prediction:  118.0 correct answer:  116.0
-prediction:  162.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  3.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  49.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  143.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  33.0 correct answer:  116.0
-prediction:  124.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  87.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  47.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  162.0 correct answer:  145.0
-prediction:  40.0 correct answer:  145.0
-prediction:  121.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  124.0 correct answer:  116.0
-prediction:  74.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  33.0 correct answer:  116.0
-prediction:  16.0 correct answer:  116.0
-prediction:  83.0 correct answer:  116.0
-prediction:  163.0 correct answer:  116.0
-prediction:  17.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  80.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  87.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  85.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  95.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  24.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  143.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  63.0 correct answer:  37.0
-prediction:  124.0 correct answer:  37.0
-prediction:  69.0 correct answer:  37.0
-prediction:  124.0 correct answer:  37.0
-prediction:  85.0 correct answer:  145.0
-prediction:  85.0 correct answer:  37.0
-prediction:  55.0 correct answer:  121.0
-prediction:  39.0 correct answer:  121.0
-prediction:  39.0 correct answer:  37.0
-prediction:  54.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  3.0 correct answer:  121.0
-prediction:  27.0 correct answer:  37.0
-prediction:  47.0 correct answer:  121.0
-prediction:  54.0 correct answer:  54.0
-prediction:  140.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  146.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  27.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  17.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  52.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  5.0 correct answer:  54.0
-prediction:  69.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  129.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  116.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  54.0
-prediction:  39.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  54.0 correct answer:  54.0
-prediction:  85.0 correct answer:  55.0
-prediction:  51.0 correct answer:  55.0
-prediction:  62.0 correct answer:  54.0
-prediction:  124.0 correct answer:  55.0
-prediction:  54.0 correct answer:  55.0
-prediction:  124.0 correct answer:  55.0
-prediction:  118.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  54.0 correct answer:  55.0
-prediction:  33.0 correct answer:  55.0
-prediction:  54.0 correct answer:  55.0
-prediction:  163.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  95.0 correct answer:  85.0
-prediction:  27.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  39.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  69.0 correct answer:  85.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  69.0 correct answer:  40.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  40.0
-prediction:  85.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  85.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  40.0 correct answer:  40.0
-prediction:  5.0 correct answer:  40.0
-prediction:  54.0 correct answer:  40.0
-prediction:  156.0 correct answer:  40.0
-prediction:  124.0 correct answer:  40.0
-prediction:  40.0 correct answer:  40.0
-prediction:  47.0 correct answer:  40.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  51.0 correct answer:  54.0
-prediction:  39.0 correct answer:  54.0
-prediction:  47.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  40.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  145.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  54.0 correct answer:  54.0
-prediction:  63.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  69.0 correct answer:  63.0
-prediction:  162.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  118.0 correct answer:  63.0
-prediction:  124.0 correct answer:  63.0
-prediction:  146.0 correct answer:  63.0
-prediction:  63.0 correct answer:  63.0
-prediction:  118.0 correct answer:  54.0
-prediction:  47.0 correct answer:  55.0
-prediction:  33.0 correct answer:  55.0
-prediction:  85.0 correct answer:  55.0
-prediction:  121.0 correct answer:  54.0
-prediction:  124.0 correct answer:  54.0
-prediction:  39.0 correct answer:  55.0
-prediction:  51.0 correct answer:  54.0
-prediction:  51.0 correct answer:  55.0
-prediction:  27.0 correct answer:  54.0
-prediction:  51.0 correct answer:  55.0
-prediction:  69.0 correct answer:  121.0
-prediction:  54.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  40.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  62.0 correct answer:  121.0
-prediction:  146.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  40.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  69.0 correct answer:  121.0
-prediction:  27.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  85.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  145.0 correct answer:  116.0
-prediction:  145.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  140.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  51.0 correct answer:  116.0
-prediction:  69.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  27.0 correct answer:  116.0
-prediction:  62.0 correct answer:  116.0
-prediction:  54.0 correct answer:  116.0
-prediction:  85.0 correct answer:  116.0
-prediction:  124.0 correct answer:  116.0
-prediction:  33.0 correct answer:  162.0
-prediction:  85.0 correct answer:  162.0
-prediction:  121.0 correct answer:  162.0
-prediction:  20.0 correct answer:  162.0
-prediction:  146.0 correct answer:  162.0
-prediction:  147.0 correct answer:  162.0
-prediction:  54.0 correct answer:  162.0
-prediction:  85.0 correct answer:  162.0
-prediction:  121.0 correct answer:  162.0
-prediction:  121.0 correct answer:  162.0
-prediction:  54.0 correct answer:  162.0
-prediction:  85.0 correct answer:  162.0
-prediction:  162.0 correct answer:  162.0
-prediction:  54.0 correct answer:  162.0
-prediction:  74.0 correct answer:  162.0
-prediction:  145.0 correct answer:  162.0
-prediction:  49.0 correct answer:  162.0
-prediction:  124.0 correct answer:  27.0
-prediction:  39.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  39.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  0.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  118.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  50.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  88.0 correct answer:  27.0
-prediction:  54.0 correct answer:  145.0
-prediction:  40.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  163.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  124.0 correct answer:  145.0
-prediction:  47.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  121.0 correct answer:  145.0
-prediction:  36.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  69.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  62.0 correct answer:  145.0
-prediction:  54.0 correct answer:  145.0
-prediction:  69.0 correct answer:  121.0
-prediction:  61.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  18.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  47.0 correct answer:  121.0
-prediction:  146.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  69.0 correct answer:  121.0
-prediction:  54.0 correct answer:  121.0
-prediction:  85.0 correct answer:  121.0
-prediction:  54.0 correct answer:  121.0
-prediction:  69.0 correct answer:  121.0
-prediction:  124.0 correct answer:  121.0
-prediction:  121.0 correct answer:  121.0
-prediction:  54.0 correct answer:  121.0
-prediction:  85.0 correct answer:  85.0
-prediction:  116.0 correct answer:  33.0
-prediction:  118.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  40.0 correct answer:  85.0
-prediction:  124.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  147.0 correct answer:  85.0
-prediction:  18.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  146.0 correct answer:  85.0
-prediction:  162.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  69.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  47.0 correct answer:  33.0
-prediction:  124.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  88.0 correct answer:  33.0
-prediction:  33.0 correct answer:  33.0
-prediction:  121.0 correct answer:  33.0
-prediction:  85.0 correct answer:  33.0
-prediction:  52.0 correct answer:  33.0
-prediction:  121.0 correct answer:  33.0
-prediction:  88.0 correct answer:  33.0
-prediction:  54.0 correct answer:  33.0
-prediction:  54.0 correct answer:  33.0
-prediction:  162.0 correct answer:  33.0
-prediction:  88.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  17.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  121.0 correct answer:  27.0
-prediction:  33.0 correct answer:  50.0
-prediction:  85.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  47.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  83.0 correct answer:  50.0
-prediction:  54.0 correct answer:  27.0
-prediction:  55.0 correct answer:  27.0
-prediction:  121.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  2.0 correct answer:  27.0
-prediction:  85.0 correct answer:  85.0
-prediction:  33.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  147.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  140.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  88.0 correct answer:  85.0
-prediction:  83.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  85.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  51.0 correct answer:  85.0
-prediction:  47.0 correct answer:  85.0
-prediction:  54.0 correct answer:  85.0
-prediction:  62.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  54.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  50.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  163.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  69.0 correct answer:  27.0
-prediction:  124.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  20.0 correct answer:  27.0
-prediction:  27.0 correct answer:  27.0
-prediction:  85.0 correct answer:  27.0
-prediction:  33.0 correct answer:  27.0
-prediction:  121.0 correct answer:  145.0
-prediction:  5.0 correct answer:  145.0
-prediction:  5.0 correct answer:  145.0
-prediction:  36.0 correct answer:  145.0
-prediction:  54.0 correct answer:  145.0
-prediction:  62.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  163.0 correct answer:  145.0
-prediction:  88.0 correct answer:  145.0
-prediction:  41.0 correct answer:  145.0
-prediction:  54.0 correct answer:  150.0
-prediction:  162.0 correct answer:  145.0
-prediction:  88.0 correct answer:  145.0
-prediction:  33.0 correct answer:  145.0
-prediction:  54.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  85.0 correct answer:  145.0
-prediction:  27.0 correct answer:  145.0
-prediction:  116.0 correct answer:  145.0
-accuracy:  0.151285046729
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Elec Engin & Computer Sci correct answer:  Chemistry
+prediction:  Classical Civilization correct answer:  Chemistry
+prediction:  History correct answer:  Chemistry
+prediction:  Mechanical Engineering correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Arab, Armen, Pers, Turk& Islam correct answer:  Chemistry
+prediction:  Political Science correct answer:  Chemistry
+prediction:  Elec Engin & Computer Sci correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  History correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  History correct answer:  Chemistry
+prediction:  Psychology correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Communication Studies correct answer:  Chemistry
+prediction:  Great Books correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Engineering correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Psychology correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Psychology correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Industrial & Operations Engin correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Political Science correct answer:  Chemistry
+prediction:  History correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Spanish correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Political Science correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Chemical Engineering correct answer:  Biology
+prediction:  Philosophy correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Anthropology correct answer:  Biology
+prediction:  Spanish correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Physics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Civil & Environmental Engin correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Womens Studies correct answer:  Biology
+prediction:  Physics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Philosophy correct answer:  English Lang & Literature
+prediction:  Earth & Environmental Sciences correct answer:  Chemistry
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Automotive Engineering Program correct answer:  Mechanical Engineering
+prediction:  Business Econ & Public Policy correct answer:  RC Humanities
+prediction:  Sociology correct answer:  Political Science
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  American Culture correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  Anthropology
+prediction:  History correct answer:  Anthropology
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Psychology correct answer:  Ancient Civiliz & Biblical Stu
+prediction:  History correct answer:  Ancient Civiliz & Biblical Stu
+prediction:  History correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Art and Design correct answer:  Art and Design
+prediction:  Mechanical Engineering correct answer:  Art and Design
+prediction:  English Lang & Literature correct answer:  Art and Design
+prediction:  Ecology & Evolutionary Biology correct answer:  Economics
+prediction:  Biology correct answer:  Economics
+prediction:  Physics correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  Mechanical Engineering correct answer:  Economics
+prediction:  Air Force Officer Education correct answer:  Theory
+prediction:  Elec Engin & Computer Sci correct answer:  Theory
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Psychology correct answer:  Elec Engin & Computer Sci
+prediction:  Biology correct answer:  Elec Engin & Computer Sci
+prediction:  Physics correct answer:  Elec Engin & Computer Sci
+prediction:  Astronomy correct answer:  Elec Engin & Computer Sci
+prediction:  Economics correct answer:  Elec Engin & Computer Sci
+prediction:  University Courses correct answer:  Elec Engin & Computer Sci
+prediction:  Political Science correct answer:  Psychology
+prediction:  Political Science correct answer:  Psychology
+prediction:  Ecology & Evolutionary Biology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Anthropology,Cultural correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Spanish correct answer:  Psychology
+prediction:  Mechanical Engineering correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Economics correct answer:  Psychology
+prediction:  Elec Engin & Computer Sci correct answer:  Musicology
+prediction:  Lloyd Hall Scholars Program correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  Sweetland Center for Writing
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  Physics correct answer:  English Lang & Literature
+prediction:  French correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Social Work correct answer:  Ensemble
+prediction:  Screen Arts & Cultures correct answer:  Ensemble
+prediction:  Mathematics correct answer:  Ensemble
+prediction:  Art and Design correct answer:  Ensemble
+prediction:  Elec Engin & Computer Sci correct answer:  Ensemble
+prediction:  Biostatistics correct answer:  Ensemble
+prediction:  Mathematics correct answer:  Ensemble
+prediction:  Spanish correct answer:  Ensemble
+prediction:  Art and Design correct answer:  Ensemble
+prediction:  Biostatistics correct answer:  Ensemble
+prediction:  Mathematics correct answer:  Ensemble
+prediction:  Education correct answer:  Ensemble
+prediction:  Mechanical Engineering correct answer:  Philosophy
+prediction:  Architecture correct answer:  Philosophy
+prediction:  Political Science correct answer:  Philosophy
+prediction:  Anthropology correct answer:  Philosophy
+prediction:  Communication Studies correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Biology correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Physics correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Biology correct answer:  Judaic Studies
+prediction:  Marketing correct answer:  Ancient Civiliz & Biblical Stu
+prediction:  Sociology correct answer:  Religion
+prediction:  English Lang & Literature correct answer:  Religion
+prediction:  Mathematics correct answer:  Religion
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Spanish correct answer:  Biology
+prediction:  Engineering correct answer:  Biology
+prediction:  Sociology correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Physics correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Philosophy correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Biology correct answer:  Ecology & Evolutionary Biology
+prediction:  Mechanical Engineering correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Biology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  French correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  Business correct answer:  English Lang & Literature
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  Linguistics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Earth & Environmental Sciences correct answer:  English Lang & Literature
+prediction:  Business Econ & Public Policy correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Philosophy correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Linguistics correct answer:  English Lang & Literature
+prediction:  Engineering correct answer:  English Lang & Literature
+prediction:  German correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  Industrial & Operations Engin correct answer:  English Lang & Literature
+prediction:  Civil & Environmental Engin correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Anthropology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Chemistry correct answer:  English Lang & Literature
+prediction:  Business Administration correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Statistics correct answer:  Biology
+prediction:  Mechanical Engineering correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Composition correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Physics correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Art and Design correct answer:  Biology
+prediction:  History correct answer:  Biology
+prediction:  American Culture correct answer:  Biology
+prediction:  Composition correct answer:  Biology
+prediction:  Industrial & Operations Engin correct answer:  Biology
+prediction:  Geography correct answer:  Biology
+prediction:  Philosophy correct answer:  Biology
+prediction:  Sociology correct answer:  Biology
+prediction:  Business correct answer:  Dutch
+prediction:  English Lang & Literature correct answer:  Dutch
+prediction:  Business correct answer:  Dutch
+prediction:  English Lang & Literature correct answer:  Dutch
+prediction:  Anthropology correct answer:  Dutch
+prediction:  Psychology correct answer:  Dutch
+prediction:  American Culture correct answer:  Dutch
+prediction:  Engineering correct answer:  Dutch
+prediction:  English Lang & Literature correct answer:  Dutch
+prediction:  Spanish correct answer:  Dutch
+prediction:  Economics correct answer:  Dutch
+prediction:  Psychology correct answer:  Dutch
+prediction:  Economics correct answer:  Dutch
+prediction:  Biology correct answer:  Dutch
+prediction:  Art and Design correct answer:  Dutch
+prediction:  Psychology correct answer:  Dutch
+prediction:  Mathematics correct answer:  Dutch
+prediction:  Spanish correct answer:  Dutch
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  Philosophy
+prediction:  Physics correct answer:  Philosophy
+prediction:  Biology correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Anthropology correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Anthropology correct answer:  Philosophy
+prediction:  Biology correct answer:  Philosophy
+prediction:  Spanish correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  Philosophy
+prediction:  Spanish correct answer:  Technology & Operations
+prediction:  Mathematics correct answer:  Statistics
+prediction:  Mathematics correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Sociology
+prediction:  Philosophy correct answer:  Engineering
+prediction:  Psychology correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  Psychology correct answer:  Engineering
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Engineering
+prediction:  Chemistry correct answer:  Engineering
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Engineering correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Sweetland Center for Writing correct answer:  Engineering
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Communication Studies correct answer:  Sociology
+prediction:  Biology correct answer:  Sociology
+prediction:  Musicology correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Biology correct answer:  Sociology
+prediction:  Anthropology correct answer:  Sociology
+prediction:  Composition correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Chemistry correct answer:  Sociology
+prediction:  Business correct answer:  Sociology
+prediction:  Political Science correct answer:  Sociology
+prediction:  Composition correct answer:  Sociology
+prediction:  Economics correct answer:  Sociology
+prediction:  Business correct answer:  Linguistics
+prediction:  Economics correct answer:  Linguistics
+prediction:  Industrial & Operations Engin correct answer:  Linguistics
+prediction:  Mechanical Engineering correct answer:  Linguistics
+prediction:  Psychology correct answer:  Linguistics
+prediction:  Composition correct answer:  Linguistics
+prediction:  Communication Studies correct answer:  Linguistics
+prediction:  Elec Engin & Computer Sci correct answer:  Linguistics
+prediction:  Spanish correct answer:  Linguistics
+prediction:  Mechanical Engineering correct answer:  Linguistics
+prediction:  Psychology correct answer:  Linguistics
+prediction:  Psychology correct answer:  Linguistics
+prediction:  Biology correct answer:  Linguistics
+prediction:  Mathematics correct answer:  Linguistics
+prediction:  Chemistry correct answer:  Linguistics
+prediction:  Anthropology,Cultural correct answer:  Linguistics
+prediction:  History correct answer:  Linguistics
+prediction:  English Lang & Literature correct answer:  Linguistics
+prediction:  Spanish correct answer:  Linguistics
+prediction:  American Culture correct answer:  Scandinavian
+prediction:  English Lang & Literature correct answer:  Scandinavian
+prediction:  History correct answer:  Scandinavian
+prediction:  Asian Studies correct answer:  Scandinavian
+prediction:  Russian correct answer:  Scandinavian
+prediction:  Psychology correct answer:  Scandinavian
+prediction:  English Lang & Literature correct answer:  Scandinavian
+prediction:  Anthropology correct answer:  Medieval & Early Modern Std
+prediction:  Mathematics correct answer:  Scandinavian
+prediction:  Mathematics correct answer:  German
+prediction:  English Lang & Literature correct answer:  Scandinavian
+prediction:  English Lang & Literature correct answer:  Scandinavian
+prediction:  English Lang & Literature correct answer:  Medieval & Early Modern Std
+prediction:  Geography correct answer:  Scandinavian
+prediction:  Education correct answer:  Scandinavian
+prediction:  Civil & Environmental Engin correct answer:  Scandinavian
+prediction:  History correct answer:  Scandinavian
+prediction:  Air Force Officer Education correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Biology correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  History correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Biology correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Anthropology correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  History of Art correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Political Science correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Biology correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Sociology correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Business correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  History correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Mechanical Engineering correct answer:  Political Science
+prediction:  American Culture correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Communication Studies correct answer:  Political Science
+prediction:  Italian correct answer:  Political Science
+prediction:  Mechanical Engineering correct answer:  Political Science
+prediction:  Anthropology correct answer:  Political Science
+prediction:  Sociology correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Anthropology correct answer:  Political Science
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Spanish correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Information correct answer:  Political Science
+prediction:  Industrial & Operations Engin correct answer:  Political Science
+prediction:  Education correct answer:  Political Science
+prediction:  Political Science correct answer:  Chemical Engineering
+prediction:  History correct answer:  Sociology
+prediction:  Elec Engin & Computer Sci correct answer:  Sociology
+prediction:  Art and Design correct answer:  Anthropology,Cultural
+prediction:  Chemistry correct answer:  Linguistics
+prediction:  Psychology correct answer:  Linguistics
+prediction:  Air Force Officer Education correct answer:  Linguistics
+prediction:  Psychology correct answer:  Anthropology
+prediction:  History correct answer:  Linguistics
+prediction:  History correct answer:  Linguistics
+prediction:  Physics correct answer:  Linguistics
+prediction:  Chemistry correct answer:  Linguistics
+prediction:  Business correct answer:  Linguistics
+prediction:  Political Science correct answer:  Linguistics
+prediction:  Asian Studies correct answer:  Linguistics
+prediction:  English Lang & Literature correct answer:  Linguistics
+prediction:  English Lang & Literature correct answer:  Linguistics
+prediction:  Molec, Cell & Develop Biology correct answer:  Linguistics
+prediction:  English Lang & Literature correct answer:  Linguistics
+prediction:  English Lang & Literature correct answer:  Linguistics
+prediction:  Sociology correct answer:  Linguistics
+prediction:  Economics correct answer:  Linguistics
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  French correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Industrial & Operations Engin correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  Mechanical Engineering correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  English Lang & Literature correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Elec Engin & Computer Sci correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Art and Design correct answer:  Asian Languages
+prediction:  Chemistry correct answer:  Asian Studies
+prediction:  Sociology correct answer:  Asian Studies
+prediction:  Linguistics correct answer:  Asian Languages
+prediction:  Psychology correct answer:  Asian Languages
+prediction:  Communication Studies correct answer:  Composition
+prediction:  Psychology correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  French correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Statistics correct answer:  Composition
+prediction:  Mathematics correct answer:  Composition
+prediction:  Political Science correct answer:  Composition
+prediction:  Mechanical Engineering correct answer:  Composition
+prediction:  Elec Engin & Computer Sci correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Biology correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Statistics correct answer:  Composition
+prediction:  Mathematics correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Psychology correct answer:  Composition
+prediction:  Biology correct answer:  Marketing
+prediction:  Marketing correct answer:  Marketing
+prediction:  Biology correct answer:  Marketing
+prediction:  Elec Engin & Computer Sci correct answer:  Marketing
+prediction:  Mechanical Engineering correct answer:  Marketing
+prediction:  Mathematics correct answer:  Marketing
+prediction:  Mechanical Engineering correct answer:  Marketing
+prediction:  Chemical Engineering correct answer:  Marketing
+prediction:  Sociology correct answer:  Marketing
+prediction:  English Lang & Literature correct answer:  Marketing
+prediction:  Sociology correct answer:  Marketing
+prediction:  Marketing correct answer:  Marketing
+prediction:  American Culture correct answer:  Marketing
+prediction:  Spanish correct answer:  Marketing
+prediction:  Mechanical Engineering correct answer:  Marketing
+prediction:  Mathematics correct answer:  Marketing
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mechanical Engineering correct answer:  English Lang & Literature
+prediction:  Manufacturing correct answer:  English Lang & Literature
+prediction:  Industrial & Operations Engin correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  Industrial & Operations Engin correct answer:  English Lang & Literature
+prediction:  Art and Design correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Nursing correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Air Force Officer Education correct answer:  English Lang & Literature
+prediction:  Mechanical Engineering correct answer:  English Lang & Literature
+prediction:  History correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  Sociology correct answer:  Psychology
+prediction:  Astronomy correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Latin correct answer:  Psychology
+prediction:  Russian correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Economics correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Chemistry correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  Elec Engin & Computer Sci correct answer:  Psychology
+prediction:  Economics correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Industrial & Operations Engin correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Civil & Environmental Engin correct answer:  Mathematics
+prediction:  History correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Arabic Studies correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Economics
+prediction:  Nursing correct answer:  Economics
+prediction:  Mechanical Engineering correct answer:  Economics
+prediction:  Elec Engin & Computer Sci correct answer:  Economics
+prediction:  Anthropology correct answer:  Economics
+prediction:  Economics correct answer:  Economics
+prediction:  Elec Engin & Computer Sci correct answer:  Economics
+prediction:  Mathematics correct answer:  Economics
+prediction:  Anthropology,Biological correct answer:  Economics
+prediction:  Spanish correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  Elec Engin & Computer Sci correct answer:  Economics
+prediction:  Psychology correct answer:  Economics
+prediction:  Chemistry correct answer:  Economics
+prediction:  History correct answer:  Elec Engin & Computer Sci
+prediction:  Physics correct answer:  Elec Engin & Computer Sci
+prediction:  Spanish correct answer:  Elec Engin & Computer Sci
+prediction:  Chemistry correct answer:  Elec Engin & Computer Sci
+prediction:  English Lang & Literature correct answer:  Elec Engin & Computer Sci
+prediction:  Political Science correct answer:  Elec Engin & Computer Sci
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Chemistry correct answer:  Elec Engin & Computer Sci
+prediction:  Chemistry correct answer:  Elec Engin & Computer Sci
+prediction:  Psychology correct answer:  Elec Engin & Computer Sci
+prediction:  Biology correct answer:  Elec Engin & Computer Sci
+prediction:  Business Econ & Public Policy correct answer:  Elec Engin & Computer Sci
+prediction:  Nursing correct answer:  Elec Engin & Computer Sci
+prediction:  Mechanical Engineering correct answer:  Elec Engin & Computer Sci
+prediction:  English Lang & Literature correct answer:  Elec Engin & Computer Sci
+prediction:  History correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Philosophy correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Anthropology correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Spanish correct answer:  Philosophy
+prediction:  Asian Studies correct answer:  Philosophy
+prediction:  Afroamerican & African Studies correct answer:  Spanish
+prediction:  Elec Engin & Computer Sci correct answer:  Spanish
+prediction:  Biology correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Chemical Engineering correct answer:  Spanish
+prediction:  Elec Engin & Computer Sci correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Composition correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  English Lang & Literature correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Elec Engin & Computer Sci correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  History correct answer:  History
+prediction:  Physics correct answer:  History
+prediction:  Psychology correct answer:  History
+prediction:  History correct answer:  History
+prediction:  German correct answer:  History
+prediction:  Psychology correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Chemical Engineering correct answer:  History
+prediction:  Industrial & Operations Engin correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Mechanical Engineering correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Psychology correct answer:  History
+prediction:  Asian Studies correct answer:  History
+prediction:  Mathematics correct answer:  History
+prediction:  History correct answer:  American Culture
+prediction:  English Lang & Literature correct answer:  Spanish
+prediction:  Statistics correct answer:  RC Languages
+prediction:  Spanish correct answer:  Spanish
+prediction:  Political Science correct answer:  Spanish
+prediction:  Philosophy correct answer:  Spanish
+prediction:  English Lang & Literature correct answer:  RC Humanities
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Womens Studies correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Anthropology,Cultural correct answer:  Psychology
+prediction:  Economics correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Classical Civilization correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  RC Core Courses correct answer:  Psychology
+prediction:  Philosophy correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  Linguistics correct answer:  Psychology
+prediction:  Economics correct answer:  Psychology
+prediction:  Screen Arts & Cultures correct answer:  Psychology
+prediction:  Asian Languages correct answer:  Mathematics
+prediction:  Information correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Statistics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Social Work correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Engineering
+prediction:  French correct answer:  Engineering
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Physics correct answer:  Engineering
+prediction:  Sociology correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  Engineering
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Education correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  Biology
+prediction:  History correct answer:  Chemistry
+prediction:  Sociology correct answer:  Dance
+prediction:  English Lang & Literature correct answer:  Dance
+prediction:  Mathematics correct answer:  Jazz & Improvisational Studies
+prediction:  Engineering correct answer:  Dance
+prediction:  Business correct answer:  Dance
+prediction:  History correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Political Science correct answer:  Business Administration
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Chemical Engineering correct answer:  Biology
+prediction:  Engineering correct answer:  Biology
+prediction:  Philosophy correct answer:  Biology
+prediction:  German correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Biology correct answer:  Mathematics
+prediction:  Asian Studies correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Information correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Business correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Art and Design correct answer:  Mathematics
+prediction:  Business Econ & Public Policy correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Linguistics correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Sociology correct answer:  History
+prediction:  Geography correct answer:  History
+prediction:  German correct answer:  History
+prediction:  Psychology correct answer:  History
+prediction:  Spanish correct answer:  History
+prediction:  German correct answer:  History
+prediction:  Psychology correct answer:  History
+prediction:  Spanish correct answer:  History
+prediction:  History correct answer:  History
+prediction:  History correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Political Science correct answer:  Arab, Armen, Pers, Turk& Islam
+prediction:  Business correct answer:  History
+prediction:  Afroamerican & African Studies correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Mathematics correct answer:  Ancient Civiliz & Biblical Stu
+prediction:  Political Science correct answer:  Ancient Civiliz & Biblical Stu
+prediction:  Physics correct answer:  Latin
+prediction:  Mechanical Engineering correct answer:  Latin
+prediction:  Mathematics correct answer:  Latin
+prediction:  German correct answer:  Latin
+prediction:  Biology correct answer:  Latin
+prediction:  Mathematics correct answer:  Latin
+prediction:  Spanish correct answer:  Latin
+prediction:  Psychology correct answer:  Latin
+prediction:  Elec Engin & Computer Sci correct answer:  Latin
+prediction:  Physics correct answer:  Latin
+prediction:  Mathematics correct answer:  Latin
+prediction:  Mathematics correct answer:  Latin
+prediction:  Arabic Studies correct answer:  Latin
+prediction:  Biology correct answer:  History
+prediction:  Marketing correct answer:  History
+prediction:  English Lang & Literature correct answer:  History
+prediction:  Mathematics correct answer:  Biology
+prediction:  Engineering correct answer:  Biology
+prediction:  Mechanical Engineering correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Art and Design correct answer:  Biology
+prediction:  Elec Engin & Computer Sci correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  History correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Performing Arts & Technology correct answer:  Biology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Psychology correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Physics correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Elec Engin & Computer Sci
+prediction:  English Lang & Literature correct answer:  Elec Engin & Computer Sci
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Mathematics correct answer:  Education
+prediction:  English Lang & Literature correct answer:  Education
+prediction:  Philosophy correct answer:  Education
+prediction:  Mechanical Engineering correct answer:  Education
+prediction:  Anthropology correct answer:  Education
+prediction:  German correct answer:  Education
+prediction:  Mathematics correct answer:  Education
+prediction:  Psychology correct answer:  Education
+prediction:  Biology correct answer:  Business
+prediction:  Sociology correct answer:  Business
+prediction:  Physics correct answer:  Business
+prediction:  Chemistry correct answer:  Business
+prediction:  Philosophy correct answer:  Business
+prediction:  Elec Engin & Computer Sci correct answer:  Business
+prediction:  Mathematics correct answer:  Business
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  Business
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Atmos, Oceanic & Space Sci correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Business correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  History correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Air Force Officer Education correct answer:  Mathematics
+prediction:  Business correct answer:  Mathematics
+prediction:  Political Science correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Communication Studies correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Psychology correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Classical Civilization correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Anthropology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Sociology correct answer:  Psychology
+prediction:  Sociology correct answer:  Psychology
+prediction:  Physics correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Industrial & Operations Engin correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Mathematics correct answer:  Business
+prediction:  Anthropology correct answer:  Business
+prediction:  Physics correct answer:  Business
+prediction:  Elec Engin & Computer Sci correct answer:  Business
+prediction:  Classical Civilization correct answer:  Business
+prediction:  American Culture correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  English Lang & Literature
+prediction:  Chemistry correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Business Econ & Public Policy correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Spanish correct answer:  Air Force Officer Education
+prediction:  Elec Engin & Computer Sci correct answer:  Air Force Officer Education
+prediction:  Mathematics correct answer:  Air Force Officer Education
+prediction:  Economics correct answer:  Air Force Officer Education
+prediction:  Elec Engin & Computer Sci correct answer:  Air Force Officer Education
+prediction:  Mathematics correct answer:  Air Force Officer Education
+prediction:  Business correct answer:  Air Force Officer Education
+prediction:  History correct answer:  Economics
+prediction:  Mathematics correct answer:  Economics
+prediction:  Mathematics correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  Psychology correct answer:  Economics
+prediction:  Biology correct answer:  Economics
+prediction:  History correct answer:  Economics
+prediction:  Nursing correct answer:  Economics
+prediction:  Statistics correct answer:  Economics
+prediction:  Industrial & Operations Engin correct answer:  Economics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Astronomy correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Elec Engin & Computer Sci correct answer:  Elec Engin & Computer Sci
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  Air Force Officer Education correct answer:  Elec Engin & Computer Sci
+prediction:  English Lang & Literature correct answer:  Elec Engin & Computer Sci
+prediction:  Elec Engin & Computer Sci correct answer:  Elec Engin & Computer Sci
+prediction:  Physics correct answer:  Elec Engin & Computer Sci
+prediction:  Physics correct answer:  Economics
+prediction:  History correct answer:  Economics
+prediction:  Psychology correct answer:  Economics
+prediction:  Communication Studies correct answer:  Economics
+prediction:  Economics correct answer:  Economics
+prediction:  Mechanical Engineering correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  Economics
+prediction:  History correct answer:  Economics
+prediction:  Nursing correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Psychology correct answer:  Spanish
+prediction:  Art and Design correct answer:  Spanish
+prediction:  Education correct answer:  Spanish
+prediction:  French correct answer:  Spanish
+prediction:  Industrial & Operations Engin correct answer:  Spanish
+prediction:  Physics correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Philosophy correct answer:  English Lang & Literature
+prediction:  Scandinavian correct answer:  English Lang & Literature
+prediction:  Astronomy correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Anthropology correct answer:  Political Science
+prediction:  Spanish correct answer:  Political Science
+prediction:  American Culture correct answer:  Political Science
+prediction:  Chemistry correct answer:  Political Science
+prediction:  Anthropology correct answer:  Political Science
+prediction:  Linguistics correct answer:  Political Science
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Engineering correct answer:  Mathematics
+prediction:  Spanish correct answer:  Mathematics
+prediction:  History correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Communication Studies correct answer:  Mathematics
+prediction:  Art and Design correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Aerospace Engineering correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Anthropology correct answer:  Mathematics
+prediction:  Chemical Engineering correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Statistics
+prediction:  English Lang & Literature correct answer:  Statistics
+prediction:  History correct answer:  Statistics
+prediction:  Social Work correct answer:  Political Science
+prediction:  Biology correct answer:  Statistics
+prediction:  Sociology correct answer:  Political Science
+prediction:  Physics correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Physics correct answer:  Physics
+prediction:  Classical Civilization correct answer:  Physics
+prediction:  Mathematics correct answer:  Physics
+prediction:  Physics correct answer:  Physics
+prediction:  Mathematics correct answer:  Physics
+prediction:  Philosophy correct answer:  Physics
+prediction:  Physics correct answer:  Physics
+prediction:  Spanish correct answer:  Afroamerican & African Studies
+prediction:  Anthropology correct answer:  Afroamerican & African Studies
+prediction:  Mathematics correct answer:  Art and Design
+prediction:  Philosophy correct answer:  Physics
+prediction:  Chemistry correct answer:  Physics
+prediction:  Psychology correct answer:  Physics
+prediction:  Mathematics correct answer:  Physics
+prediction:  Mathematics correct answer:  Physics
+prediction:  History correct answer:  Physics
+prediction:  Ensemble correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  Spanish correct answer:  Spanish
+prediction:  History correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  History correct answer:  Architecture
+prediction:  Psychology correct answer:  Anthropology
+prediction:  History correct answer:  Anthropology
+prediction:  Mathematics correct answer:  Anthropology
+prediction:  Mathematics correct answer:  Anthropology,Cultural
+prediction:  Political Science correct answer:  Economics
+prediction:  Philosophy correct answer:  Economics
+prediction:  Mathematics correct answer:  Economics
+prediction:  Spanish correct answer:  Economics
+prediction:  Information correct answer:  Mathematics
+prediction:  Chemical Engineering correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Geography correct answer:  Political Science
+prediction:  Asian Studies correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Sociology correct answer:  Political Science
+prediction:  History correct answer:  Political Science
+prediction:  Musicology correct answer:  Political Science
+prediction:  Afroamerican & African Studies correct answer:  Political Science
+prediction:  Communication Studies correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Lloyd Hall Scholars Program
+prediction:  English Lang & Literature correct answer:  Lloyd Hall Scholars Program
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  Lloyd Hall Scholars Program
+prediction:  English Lang & Literature correct answer:  Lloyd Hall Scholars Program
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Communication Studies
+prediction:  Ensemble correct answer:  Communication Studies
+prediction:  English Lang & Literature correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  Psychology correct answer:  Chemistry
+prediction:  Psychology correct answer:  Psychology
+prediction:  French correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Elec Engin & Computer Sci correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  Anthropology correct answer:  Molec, Cell & Develop Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Physics correct answer:  Earth & Environmental Sciences
+prediction:  Psychology correct answer:  Earth & Environmental Sciences
+prediction:  History correct answer:  Earth & Environmental Sciences
+prediction:  Elec Engin & Computer Sci correct answer:  Earth & Environmental Sciences
+prediction:  Psychology correct answer:  Earth & Environmental Sciences
+prediction:  Industrial & Operations Engin correct answer:  Geography
+prediction:  Geography correct answer:  Ensemble
+prediction:  Composition correct answer:  Ensemble
+prediction:  Elec Engin & Computer Sci correct answer:  Ensemble
+prediction:  Mathematics correct answer:  Ensemble
+prediction:  English Lang & Literature correct answer:  Ensemble
+prediction:  Spanish correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Business Administration correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Philosophy correct answer:  Mathematics
+prediction:  Biology correct answer:  Philosophy
+prediction:  Chemical Engineering correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Business Econ & Public Policy correct answer:  Philosophy
+prediction:  Biology correct answer:  Civil & Environmental Engin
+prediction:  Astronomy correct answer:  Civil & Environmental Engin
+prediction:  Mathematics correct answer:  Civil & Environmental Engin
+prediction:  Mathematics correct answer:  Civil & Environmental Engin
+prediction:  Business correct answer:  Civil & Environmental Engin
+prediction:  Business correct answer:  Civil & Environmental Engin
+prediction:  German correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Biology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Physics correct answer:  English Lang & Literature
+prediction:  Aerospace Engineering correct answer:  Civil & Environmental Engin
+prediction:  Art and Design correct answer:  Civil & Environmental Engin
+prediction:  Mathematics correct answer:  Civil & Environmental Engin
+prediction:  Elec Engin & Computer Sci correct answer:  Civil & Environmental Engin
+prediction:  Mathematics correct answer:  Civil & Environmental Engin
+prediction:  Mechanical Engineering correct answer:  Civil & Environmental Engin
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Aerospace Engineering correct answer:  Mathematics
+prediction:  Atmos, Oceanic & Space Sci correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Political Science correct answer:  Mathematics
+prediction:  Psychology correct answer:  Psychology
+prediction:  Composition correct answer:  Psychology
+prediction:  Composition correct answer:  Psychology
+prediction:  Composition correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  Mathematics correct answer:  Psychology
+prediction:  American Culture correct answer:  History of Art
+prediction:  English Lang & Literature correct answer:  History
+prediction:  American Culture correct answer:  Industrial & Operations Engin
+prediction:  Philosophy correct answer:  Industrial & Operations Engin
+prediction:  Chemistry correct answer:  Industrial & Operations Engin
+prediction:  Mathematics correct answer:  Industrial & Operations Engin
+prediction:  Psychology correct answer:  Industrial & Operations Engin
+prediction:  Statistics correct answer:  Industrial & Operations Engin
+prediction:  English Lang & Literature correct answer:  University Courses
+prediction:  Atmos, Oceanic & Space Sci correct answer:  Information
+prediction:  Sociology correct answer:  Information
+prediction:  English Lang & Literature correct answer:  Information
+prediction:  Elec Engin & Computer Sci correct answer:  Information
+prediction:  RC Core Courses correct answer:  Musicology
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  Architecture correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Sweetland Center for Writing
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Elec Engin & Computer Sci
+prediction:  Anthropology correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Biology correct answer:  Engineering
+prediction:  Psychology correct answer:  Elec Engin & Computer Sci
+prediction:  Education correct answer:  Geography
+prediction:  Geography correct answer:  Geography
+prediction:  Mathematics correct answer:  Geography
+prediction:  Mathematics correct answer:  Geography
+prediction:  Spanish correct answer:  Sociology
+prediction:  Political Science correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Mathematics correct answer:  Asian Languages
+prediction:  Screen Arts & Cultures correct answer:  Asian Languages
+prediction:  Engineering correct answer:  Asian Languages
+prediction:  Elec Engin & Computer Sci correct answer:  Asian Languages
+prediction:  Education correct answer:  Ensemble
+prediction:  Mathematics correct answer:  Ensemble
+prediction:  Economics correct answer:  Industrial & Operations Engin
+prediction:  Economics correct answer:  Industrial & Operations Engin
+prediction:  History of Art correct answer:  Industrial & Operations Engin
+prediction:  Business correct answer:  Industrial & Operations Engin
+prediction:  Economics correct answer:  Industrial & Operations Engin
+prediction:  Mathematics correct answer:  Biophysics
+prediction:  French correct answer:  Biophysics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Education correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  English Lang & Literature
+prediction:  Education correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Biology
+prediction:  Religion correct answer:  Political Science
+prediction:  Biology correct answer:  Political Science
+prediction:  Communication Studies correct answer:  French
+prediction:  Elec Engin & Computer Sci correct answer:  French
+prediction:  French correct answer:  French
+prediction:  Environmental Health Sciences correct answer:  French
+prediction:  Asian Studies correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Political Science
+prediction:  Business Econ & Public Policy correct answer:  Political Science
+prediction:  History correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Composition correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Political Science correct answer:  Anthropology
+prediction:  English Lang & Literature correct answer:  Anthropology
+prediction:  Physics correct answer:  Anthropology
+prediction:  German correct answer:  Anthropology
+prediction:  Psychology correct answer:  Public Policy
+prediction:  Nursing correct answer:  Economics
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Business correct answer:  English Lang & Literature
+prediction:  Ensemble correct answer:  English Lang & Literature
+prediction:  Anthropology correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  History correct answer:  Mechanical Engineering
+prediction:  Business correct answer:  Mechanical Engineering
+prediction:  Molec, Cell & Develop Biology correct answer:  Engineering
+prediction:  Psychology correct answer:  Communication Studies
+prediction:  French correct answer:  Communication Studies
+prediction:  Political Science correct answer:  Communication Studies
+prediction:  Psychology correct answer:  Social Work
+prediction:  Communication Studies correct answer:  Social Work
+prediction:  Political Science correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Engineering correct answer:  German
+prediction:  German correct answer:  German
+prediction:  Psychology correct answer:  German
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Physics correct answer:  Political Science
+prediction:  Economics correct answer:  Political Science
+prediction:  Mathematics correct answer:  History
+prediction:  Mathematics correct answer:  History
+prediction:  Mechanical Engineering correct answer:  History
+prediction:  Psychology correct answer:  Psychology
+prediction:  Astronomy correct answer:  Psychology
+prediction:  History correct answer:  Psychology
+prediction:  Psychology correct answer:  Business
+prediction:  English Lang & Literature correct answer:  Business
+prediction:  Political Science correct answer:  Business
+prediction:  Psychology correct answer:  Business
+prediction:  Psychology correct answer:  Spanish
+prediction:  German correct answer:  Spanish
+prediction:  Mathematics correct answer:  Spanish
+prediction:  Business correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Elec Engin & Computer Sci
+prediction:  Civil & Environmental Engin correct answer:  Elec Engin & Computer Sci
+prediction:  Astronomy correct answer:  Elec Engin & Computer Sci
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  Psychology correct answer:  Mechanical Engineering
+prediction:  History correct answer:  Mechanical Engineering
+prediction:  American Culture correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  History correct answer:  Psychology
+prediction:  Chemistry correct answer:  Psychology
+prediction:  Screen Arts & Cultures correct answer:  Psychology
+prediction:  Mathematics correct answer:  American Culture
+prediction:  Communication Studies correct answer:  Womens Studies
+prediction:  History correct answer:  Womens Studies
+prediction:  Mathematics correct answer:  Womens Studies
+prediction:  Mathematics correct answer:  Spanish
+prediction:  English Lang & Literature correct answer:  Spanish
+prediction:  Chemical Engineering correct answer:  Mathematics
+prediction:  Biological Chemistry correct answer:  Mathematics
+prediction:  History correct answer:  Astronomy
+prediction:  Chemistry correct answer:  Astronomy
+prediction:  Economics correct answer:  French
+prediction:  Economics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  History correct answer:  Social Work
+prediction:  Economics correct answer:  Social Work
+prediction:  Mathematics correct answer:  Asian Languages
+prediction:  English Lang & Literature correct answer:  Asian Languages
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Political Science correct answer:  Architecture
+prediction:  English Lang & Literature correct answer:  Architecture
+prediction:  History correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Marketing correct answer:  Anthropology
+prediction:  Chemistry correct answer:  Anthropology
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Asian Languages
+prediction:  Elec Engin & Computer Sci correct answer:  Asian Languages
+prediction:  Astronomy correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  History correct answer:  Psychology
+prediction:  Molec, Cell & Develop Biology correct answer:  Psychology
+prediction:  Chemistry correct answer:  Physics
+prediction:  Industrial & Operations Engin correct answer:  Physics
+prediction:  Psychology correct answer:  Theatre & Drama
+prediction:  Elec Engin & Computer Sci correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Business correct answer:  Psychology
+prediction:  English Lang & Literature correct answer:  Spanish
+prediction:  Mathematics correct answer:  Economics
+prediction:  Political Science correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Air Force Officer Education
+prediction:  English Lang & Literature correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Chemical Engineering
+prediction:  Chemistry correct answer:  Chemistry
+prediction:  Spanish correct answer:  Linguistics
+prediction:  History correct answer:  Ecology & Evolutionary Biology
+prediction:  Mathematics correct answer:  Elec Engin & Computer Sci
+prediction:  English Lang & Literature correct answer:  RC Core Courses
+prediction:  Spanish correct answer:  Spanish
+prediction:  Spanish correct answer:  Psychology
+prediction:  Linguistics correct answer:  Education
+prediction:  English Lang & Literature correct answer:  History
+prediction:  Anthropology correct answer:  Mathematics
+prediction:  Political Science correct answer:  History
+prediction:  German correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Classical Civilization correct answer:  History
+prediction:  History correct answer:  History
+prediction:  History correct answer:  History
+prediction:  History correct answer:  History
+prediction:  History correct answer:  History
+prediction:  American Culture correct answer:  History
+prediction:  RC Humanities correct answer:  History
+prediction:  American Culture correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Information correct answer:  History
+prediction:  History correct answer:  History
+prediction:  Anthropology correct answer:  History
+prediction:  Physics correct answer:  Mechanical Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  History correct answer:  Mechanical Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Marketing correct answer:  Mechanical Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  Chemistry correct answer:  Mechanical Engineering
+prediction:  Molec, Cell & Develop Biology correct answer:  Mechanical Engineering
+prediction:  Communication Studies correct answer:  Mechanical Engineering
+prediction:  Arabic Studies correct answer:  Mechanical Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Mechanical Engineering
+prediction:  Spanish correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Mathematics correct answer:  Mechanical Engineering
+prediction:  Chemistry correct answer:  Mechanical Engineering
+prediction:  Business Econ & Public Policy correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Sociology correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Air Force Officer Education correct answer:  Mathematics
+prediction:  Sociology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Molec, Cell & Develop Biology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Communication Studies correct answer:  Mathematics
+prediction:  Art and Design correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Biology correct answer:  Psychology
+prediction:  Chemical Engineering correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Sociology correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Chemistry correct answer:  Psychology
+prediction:  Ancient Civiliz & Biblical Stu correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Sociology correct answer:  Psychology
+prediction:  Earth & Environmental Sciences correct answer:  Psychology
+prediction:  French correct answer:  Psychology
+prediction:  Business correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Psychology correct answer:  Psychology
+prediction:  Biology correct answer:  Psychology
+prediction:  Spanish correct answer:  Psychology
+prediction:  Spanish correct answer:  Psychology
+prediction:  Mathematics correct answer:  Classical Civilization
+prediction:  Asian Studies correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  History correct answer:  Classical Civilization
+prediction:  Earth & Environmental Sciences correct answer:  Classical Civilization
+prediction:  Engineering correct answer:  Classical Civilization
+prediction:  Biology correct answer:  Classical Civilization
+prediction:  Political Science correct answer:  Classical Civilization
+prediction:  Entrepreneurial Studies correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Mathematics correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Mathematics correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Communication Studies correct answer:  Classical Civilization
+prediction:  English Lang & Literature correct answer:  Latin
+prediction:  Psychology correct answer:  Classical Civilization
+prediction:  Mathematics correct answer:  Classical Civilization
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  Spanish correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  American Culture correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Anthropology correct answer:  English Lang & Literature
+prediction:  Civil & Environmental Engin correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Business correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Social Work correct answer:  English Lang & Literature
+prediction:  Physics correct answer:  English Lang & Literature
+prediction:  Astronomy correct answer:  English Lang & Literature
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Sociology correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Communication Studies correct answer:  Philosophy
+prediction:  Physics correct answer:  Philosophy
+prediction:  Business correct answer:  Philosophy
+prediction:  Ensemble correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Business correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Economics correct answer:  Philosophy
+prediction:  Information correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Philosophy
+prediction:  Psychology correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Political Science correct answer:  Sociology
+prediction:  Asian Studies correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Economics correct answer:  Sociology
+prediction:  Biology correct answer:  Sociology
+prediction:  Business correct answer:  Sociology
+prediction:  Composition correct answer:  Sociology
+prediction:  Political Science correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Industrial & Operations Engin correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Art and Design correct answer:  Philosophy
+prediction:  Linguistics correct answer:  Philosophy
+prediction:  Composition correct answer:  Philosophy
+prediction:  Asian Studies correct answer:  Philosophy
+prediction:  Art and Design correct answer:  Philosophy
+prediction:  Latin correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  Philosophy
+prediction:  Molec, Cell & Develop Biology correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Marketing correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Philosophy correct answer:  Complex Systems
+prediction:  Psychology correct answer:  Complex Systems
+prediction:  History correct answer:  Complex Systems
+prediction:  Industrial & Operations Engin correct answer:  Complex Systems
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Mechanical Engineering correct answer:  Complex Systems
+prediction:  Engineering correct answer:  Political Science
+prediction:  Chemistry correct answer:  Political Science
+prediction:  Information correct answer:  Complex Systems
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Air Force Officer Education correct answer:  Political Science
+prediction:  Biology correct answer:  Complex Systems
+prediction:  Economics correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Screen Arts & Cultures correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Biology correct answer:  English Lang & Literature
+prediction:  Asian Studies correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Asian Studies correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  German correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  History correct answer:  English Lang & Literature
+prediction:  Womens Studies correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Lloyd Hall Scholars Program correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Mathematics correct answer:  Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  Engineering
+prediction:  Geography correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  Engineering
+prediction:  English Lang & Literature correct answer:  Engineering
+prediction:  Psychology correct answer:  Engineering
+prediction:  Physics correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  English Lang & Literature correct answer:  Engineering
+prediction:  Education correct answer:  Engineering
+prediction:  Chemistry correct answer:  Engineering
+prediction:  Anthropology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Asian Languages correct answer:  Mathematics
+prediction:  Biology correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Communication Studies correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Astronomy correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Psychology correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Mathematics correct answer:  Composition
+prediction:  Sociology correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Composition correct answer:  Composition
+prediction:  German correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  Composition
+prediction:  Political Science correct answer:  Composition
+prediction:  Psychology correct answer:  Composition
+prediction:  Composition correct answer:  Composition
+prediction:  Mathematics correct answer:  Composition
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  Communication Studies correct answer:  English Lang & Literature
+prediction:  Economics correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Composition correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  German correct answer:  German
+prediction:  German correct answer:  German
+prediction:  German correct answer:  German
+prediction:  German correct answer:  German
+prediction:  Political Science correct answer:  German
+prediction:  History correct answer:  German
+prediction:  Business correct answer:  German
+prediction:  German correct answer:  German
+prediction:  Anthropology correct answer:  German
+prediction:  Psychology correct answer:  German
+prediction:  Psychology correct answer:  German
+prediction:  German correct answer:  German
+prediction:  Physics correct answer:  English Lang & Literature
+prediction:  Ecology & Evolutionary Biology correct answer:  Engineering
+prediction:  Chemistry correct answer:  Engineering
+prediction:  Mathematics correct answer:  Engineering
+prediction:  English Lang & Literature correct answer:  English Lang & Literature
+prediction:  Psychology correct answer:  English Lang & Literature
+prediction:  Sociology correct answer:  Engineering
+prediction:  Elec Engin & Computer Sci correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Engineering
+prediction:  Biology correct answer:  English Lang & Literature
+prediction:  Elec Engin & Computer Sci correct answer:  Engineering
+prediction:  History correct answer:  Political Science
+prediction:  Architecture correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Composition correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Geography correct answer:  Political Science
+prediction:  Spanish correct answer:  Political Science
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Composition correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  History correct answer:  Political Science
+prediction:  Biology correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Physics correct answer:  Philosophy
+prediction:  Elec Engin & Computer Sci correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Anthropology correct answer:  Philosophy
+prediction:  Sociology correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Screen Arts & Cultures correct answer:  Philosophy
+prediction:  History correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Classical Civilization correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Mathematics correct answer:  Philosophy
+prediction:  Biology correct answer:  Philosophy
+prediction:  Geography correct answer:  Philosophy
+prediction:  English Lang & Literature correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Psychology correct answer:  Philosophy
+prediction:  Chemistry correct answer:  Business
+prediction:  Mathematics correct answer:  Business
+prediction:  Political Science correct answer:  Business
+prediction:  Astronomy correct answer:  Business
+prediction:  Spanish correct answer:  Business
+prediction:  Statistics correct answer:  Business
+prediction:  Business correct answer:  Business
+prediction:  Mathematics correct answer:  Business
+prediction:  Political Science correct answer:  Business
+prediction:  Anthropology correct answer:  Business
+prediction:  English Lang & Literature correct answer:  Business
+prediction:  Mathematics correct answer:  Business
+prediction:  Engineering correct answer:  Business
+prediction:  English Lang & Literature correct answer:  Business
+prediction:  Industrial & Operations Engin correct answer:  Business
+prediction:  Sociology correct answer:  Business
+prediction:  Education correct answer:  Business
+prediction:  Psychology correct answer:  Biology
+prediction:  History correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  History correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Communication Studies correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Performing Arts & Technology correct answer:  Biology
+prediction:  Elec Engin & Computer Sci correct answer:  Biology
+prediction:  Asian Studies correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Ecology & Evolutionary Biology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Mechanical Engineering correct answer:  Biology
+prediction:  Sociology correct answer:  Sociology
+prediction:  Composition correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Composition correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  Engineering correct answer:  Sociology
+prediction:  Biology correct answer:  Sociology
+prediction:  Political Science correct answer:  Sociology
+prediction:  Afroamerican & African Studies correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  History correct answer:  Sociology
+prediction:  Geography correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Sociology
+prediction:  History correct answer:  Political Science
+prediction:  French correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Air Force Officer Education correct answer:  Political Science
+prediction:  Mathematics correct answer:  Political Science
+prediction:  Economics correct answer:  Political Science
+prediction:  Spanish correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  History correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Mathematics correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  History correct answer:  Political Science
+prediction:  Psychology correct answer:  Political Science
+prediction:  Political Science correct answer:  Political Science
+prediction:  English Lang & Literature correct answer:  Political Science
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Physics correct answer:  Chemistry
+prediction:  Physics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Spanish correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Statistics correct answer:  Mathematics
+prediction:  Astronomy correct answer:  Mathematics
+prediction:  Asian Languages correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Mechanical Engineering correct answer:  Mathematics
+prediction:  Spanish correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Sociology correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  Asian Languages correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  Economics correct answer:  Chemistry
+prediction:  Biology correct answer:  Chemistry
+prediction:  English Lang & Literature correct answer:  Chemistry
+prediction:  Geography correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  Political Science correct answer:  Chemistry
+prediction:  Mechanical Engineering correct answer:  Chemistry
+prediction:  Mathematics correct answer:  Chemistry
+prediction:  English Lang & Literature correct answer:  Chemistry
+prediction:  Business correct answer:  Chemistry
+prediction:  Mechanical Engineering correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Business Econ & Public Policy correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Asian Studies correct answer:  Biology
+prediction:  Astronomy correct answer:  Biology
+prediction:  Arab, Armen, Pers, Turk& Islam correct answer:  Biology
+prediction:  Chemistry correct answer:  Ecology & Evolutionary Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Elec Engin & Computer Sci correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Spanish correct answer:  Ecology & Evolutionary Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Engineering correct answer:  Biology
+prediction:  Anthropology,Biological correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Ancient Civiliz & Biblical Stu correct answer:  Biology
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Chemistry correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  Psychology correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Social Work correct answer:  Mathematics
+prediction:  Civil & Environmental Engin correct answer:  Mathematics
+prediction:  Spanish correct answer:  Mathematics
+prediction:  Linguistics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Mathematics correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Elec Engin & Computer Sci correct answer:  Mathematics
+prediction:  Economics correct answer:  Mathematics
+prediction:  English Lang & Literature correct answer:  Mathematics
+prediction:  Psychology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Astronomy correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  Ecology & Evolutionary Biology correct answer:  Biology
+prediction:  Spanish correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Psychology correct answer:  Biology
+prediction:  Elec Engin & Computer Sci correct answer:  Biology
+prediction:  Anthropology correct answer:  Biology
+prediction:  Mathematics correct answer:  Biology
+prediction:  English Lang & Literature correct answer:  Biology
+prediction:  Economics correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Molec, Cell & Develop Biology correct answer:  Biology
+prediction:  Biology correct answer:  Biology
+prediction:  Communication Studies correct answer:  Biology
+prediction:  Chemistry correct answer:  Biology
+prediction:  Political Science correct answer:  Sociology
+prediction:  American Culture correct answer:  Sociology
+prediction:  American Culture correct answer:  Sociology
+prediction:  Psychology correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Sociology
+prediction:  Geography correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  Anthropology correct answer:  Sociology
+prediction:  Mechanical Engineering correct answer:  Sociology
+prediction:  Comparative Literature correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Social Work
+prediction:  Philosophy correct answer:  Sociology
+prediction:  Mechanical Engineering correct answer:  Sociology
+prediction:  Chemistry correct answer:  Sociology
+prediction:  English Lang & Literature correct answer:  Sociology
+prediction:  Mathematics correct answer:  Sociology
+prediction:  American Culture correct answer:  Sociology
+prediction:  Biology correct answer:  Sociology
+prediction:  Engineering correct answer:  Sociology
+accuracy:  0.153621495327
