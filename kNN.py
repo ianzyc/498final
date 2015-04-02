@@ -3,7 +3,6 @@ from stemmer import PorterStemmer
 import sys
 import re
 import math
-import csv
     
 # Tokenize text
 def tokenizeText(t):
@@ -41,58 +40,100 @@ def stemWords(listTokens):
         stemmedTokens.append(ps.stem(t, 0, len(t)-1))
     return stemmedTokens
 
-def getClassname(classnameFile):
-    classname = {} # classname dict.
-    index = 0
-    f = open(classnameFile)
-    csv_f = csv.reader(f)
-   
-    for line in csv_f: 
-        name = str(line[1])
-        if name not in classname:
-            classname[name] = index
-            index += 1
-    f.close()
+class DocVector:
+    def __init__(self):
+        self.dict = {}
+    def add_token(self, token):
+        if token not in self.dict:
+          self.dict[token] = 1
+        else:
+          self.dict[token] += 1
 
-    return classname
+def preprocessTestData(file_name):
+    file = open(file_name, 'r')
 
-def getVocabulary(trainFileName):
-    vocabulary = {} # vocabulary dict.
-    index = 0
-    trainFile = open(trainFileName, 'r')
+    doc_list =[] 
+    class_list = []
 
-    for line in trainFile.readlines():
+    for line in file.readlines():
         line = line[1:-1]
-        lineclass = line.split("'")[1]
-        lineContent = line[len(lineclass) + 5 : -2]  
-        token = tokenizeText(lineContent)
+        line_class = line.split("'")[1]
+        line_content = line[len(line_class) + 5 : -2]  
+        token = tokenizeText(line_content)
         token = removeStopwords(token)
         token = stemWords(token)
+        doc_vec = DocVector()
         for t in token:
-            if t not in vocabulary:
-                vocabulary[t] = index
-                index += 1
-            
-    return vocabulary
+            doc_vec.add_token(t)
+        doc_list.append(doc_vec)
+        class_list.append(line_class)
+
+    return doc_list, class_list
+
+def preprocessTrainData(file_name):
+    file = open(file_name, 'r')
+
+    doc_dict = {}
+
+    for line in file.readlines():
+        line = line[1:-1]
+        line_class = line.split("'")[1]
+        line_content = line[len(line_class) + 5 : -2]  
+        token = tokenizeText(line_content)
+        token = removeStopwords(token)
+        token = stemWords(token)
+        doc_vec = DocVector()
+        for t in token:
+            doc_vec.add_token(t)
+        doc_dict[doc_vec] = line_class
+
+    return doc_dict
+
+def kNN_predict(train_doc_dict, test_doc_list, k):
+    assert k > 0
+    result_list = []
+    for test_doc in test_doc_list:
+        distance_dict = {}
+        for train_doc in train_doc_dict:
+            distance = 0.0
+            for token in train_doc.dict:
+                distance += (test_doc.dict.get(token, 0) - train_doc.dict[token]) ** 2
+            for token in test_doc.dict:
+                if token not in train_doc.dict:
+                    distance += test_doc.dict[token] ** 2
+            distance = math.sqrt(distance)
+            distance_dict[train_doc] = distance
+        sorted_dict = sorted(distance_dict, key=distance_dict.get, reverse=True)
+        class_dict = {}
+        count = k
+        for key in sorted_dict:
+            if train_doc_dict[key] not in class_dict:
+                class_dict[train_doc_dict[key]] = 1
+            else:
+                class_dict[train_doc_dict[key]] += 1
+            count -= 1
+            if count == 0:
+                break
+        result_list.append(sorted(class_dict, key=class_dict.get)[0])
+    return result_list
 
 ### main function below
 
 if __name__ == '__main__':
 
-    # get all classes
-    classgroup = {}
-    groupFile = "ratemyProfessor_1.2/classname_map.csv"
-    classfile = open(groupFile, "r")
-    linelist = classfile.readlines()
-    for line in linelist:
-        classgroup[line.split(",")[1]] = True;
+    file_dir = 'ratemyprofessor_1.2/'
 
-    fileDir = 'ratemyProfessor_1.2/'
+    train_file_name = file_dir + 'train_data'
+    test_file_name = file_dir + 'test_data'
 
-    trainFileName = fileDir + '/train_data'
-    testFileName = fileDir + '/test_data'
-    classnameFile = fileDir + '/classname_map.csv'
-
-    classname = getClassname(classnameFile)
-    vocabulary = getVocabulary(trainFileName)
+    train_doc_dict = preprocessTrainData(train_file_name)
+    test_doc_list, test_class_list = preprocessTestData(test_file_name)
+    k = 15
+    result_list = kNN_predict(train_doc_dict, test_doc_list, k)
+    correct = 0
+    for i in range(0, len(result_list)):
+        print 'predict: %s\treal: %s' % (result_list[i], test_class_list[i])
+        if result_list[i] == test_class_list[i]:
+            correct += 1
+    print 'Accuracy is %f' % (1.0 * correct / len(test_doc_list))
 
