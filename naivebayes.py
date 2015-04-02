@@ -96,7 +96,7 @@ def testNaiveBayes(testData, trainresult, FileProb, NoExistProb, testClass):
 
         if testClass[item[0]] in topfivelistvalue:
             recall += 0.2
-            precision += 1 / float(len(testData))
+            precision += 1
 
     return recall, precision, finalResult  
 
@@ -156,8 +156,8 @@ if __name__ == '__main__':
             accuracy += 1
 
     print "accuracy: " + str(float(accuracy) / len(testData))
-    print "recall: " + str(float(recall) / len(testData))
-    print "precision: " + str(float(precision) / len(testData))
+    print "recall of top five: " + str(float(recall) / len(testData))
+    print "precision of top five: " + str(float(precision) / len(testData))
 
 
 
