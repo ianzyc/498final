@@ -66,9 +66,11 @@ def trainNaiveBayes(trainingdata, traningClass, AllClass):
 
     return result, FileProb, NoExistProb
 
-def testNaiveBayes(testData, trainresult, FileProb, NoExistProb):
+def testNaiveBayes(testData, trainresult, FileProb, NoExistProb, testClass):
 
     finalResult = {}
+    recall = 0
+    precision = 0
 
     for item in testData.items():
         key = item[0]
@@ -86,7 +88,17 @@ def testNaiveBayes(testData, trainresult, FileProb, NoExistProb):
         sorted_dic = sorted(resultProb.items(), key=operator.itemgetter(1), reverse = True)
         finalResult[key] = sorted_dic[0][0]
 
-    return finalResult   
+        #calculate recall
+        topFiveList = sorted_dic[0:5]
+        topfivelistvalue = []
+        for inneritem in topFiveList:
+            topfivelistvalue.append(inneritem[0])
+
+        if testClass[item[0]] in topfivelistvalue:
+            recall += 0.2
+            precision += 1 / float(len(testData))
+
+    return recall, precision, finalResult  
 
 
 if __name__ == '__main__':
@@ -108,9 +120,8 @@ if __name__ == '__main__':
     i = 0
     for line in traninglines:
         line = line[1:-1]
-        lineclass = line.split(",")[0]
+        lineclass = line.split("'")[1]
         lineContent = line[len(lineclass) + 4 : -2]
-        lineclass = lineclass[1:-1]
         trainingdata[i] = lineContent
         trainingclass[i] = lineclass
         i += 1
@@ -128,24 +139,25 @@ if __name__ == '__main__':
     i = 0
     for line in linelist:
         line = line[1:-1]
-        lineclass = line.split(",")[0]
+        lineclass = line.split("'")[1]
         lineContent = line[len(lineclass) + 4 : -2]
-        lineclass = lineclass[1:-1]
         testData[i] = lineContent
         testClass[i] = lineclass
         i += 1
 
     #naiveBayes for test data
-    result = testNaiveBayes(testData, trainresult, FileProb, NoExistProb)
+    recall, precision, result = testNaiveBayes(testData, trainresult, FileProb, NoExistProb, testClass)
 
     #calculate accuracy
     accuracy = 0
     for item in result.items():
-        print "answer " + item[1] + " correct answer: " + testClass[item[0]]
+        print "prediction: " + item[1] + ", correct answer: " + testClass[item[0]]
         if item[1] == testClass[item[0]]:
             accuracy += 1
 
-    print float(accuracy) / len(testData)
+    print "accuracy: " + str(float(accuracy) / len(testData))
+    print "recall: " + str(float(recall) / len(testData))
+    print "precision: " + str(float(precision) / len(testData))
 
 
 
