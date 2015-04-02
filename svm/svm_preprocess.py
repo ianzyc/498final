@@ -132,4 +132,4 @@ for i in contentMap:
 		outputStr += str(t+1) + ":" + str(outputMap[t]) + " "
 	ofile.write(outputStr + "\n")
 
-print vocabulary[0]
+# print vocabulary[0]
