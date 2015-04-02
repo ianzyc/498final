@@ -1711,5 +1711,5 @@ prediction: English Lang & Literature, correct answer: Sociology
 prediction: English Lang & Literature, correct answer: Sociology
 prediction: Psychology, correct answer: Sociology
 accuracy: 0.277453271028
-recall: 0.105257009346
-precision: 0.000307409489912
+recall of top five: 0.105257009346
+precision of top five: 0.526285046729
