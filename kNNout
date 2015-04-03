@@ -1711,3 +1711,5 @@ predict: Greek	real: Sociology
 predict: Sweetland Center for Writing	real: Sociology
 predict: Anthropology,Cultural	real: Sociology
 Accuracy is 0.012850
+Precision is 0.006893
+Recall is 0.034463
