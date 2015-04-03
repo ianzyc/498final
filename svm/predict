@@ -1,0 +1,1712 @@
+predict: Mathematics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Biology	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Mathematics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Composition	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Mathematics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Mathematics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Economics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Spanish	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Physics	real: Chemistry
+predict: Womens Studies	real: Chemistry
+predict: Mathematics	real: Chemistry
+predict: Biology	real: Chemistry
+predict: Economics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Engineering	real: Chemistry
+predict: Biology	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Spanish	real: Chemistry
+predict: Molec, Cell & Develop Biology	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: English Lang & Literature	real: Chemistry
+predict: Elec Engin & Computer Sci	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Biology	real: Biology
+predict: Physics	real: Biology
+predict: Mathematics	real: Biology
+predict: Psychology	real: Biology
+predict: Economics	real: Biology
+predict: Economics	real: Biology
+predict: Sociology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Psychology	real: Biology
+predict: Physics	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Chemistry	real: Biology
+predict: History of Art	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Chemistry	real: Chemistry
+predict: English Lang & Literature	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Mathematics	real: Mechanical Engineering
+predict: Musicology	real: RC Humanities
+predict: Physics	real: Political Science
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Psychology	real: English Lang & Literature
+predict: American Culture	real: English Lang & Literature
+predict: English Lang & Literature	real: Anthropology
+predict: Anthropology	real: Anthropology
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Composition	real: Ancient Civiliz & Biblical Stu
+predict: Social Work	real: Ancient Civiliz & Biblical Stu
+predict: Mathematics	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Information	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: Art and Design
+predict: English Lang & Literature	real: Art and Design
+predict: Astronomy	real: Art and Design
+predict: Economics	real: Economics
+predict: Communication Studies	real: Economics
+predict: Air Force Officer Education	real: Economics
+predict: Atmos, Oceanic & Space Sci	real: Economics
+predict: Statistics	real: Economics
+predict: Chemistry	real: Theory
+predict: Elec Engin & Computer Sci	real: Theory
+predict: Psychology	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Civil & Environmental Engin	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: English Lang & Literature	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Biology	real: Psychology
+predict: Biology	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Psychology	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Womens Studies	real: Psychology
+predict: Economics	real: Musicology
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: Sweetland Center for Writing
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Mathematics	real: Ensemble
+predict: Philosophy	real: Ensemble
+predict: Philosophy	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: German	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Composition	real: Philosophy
+predict: Mathematics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Nursing	real: Philosophy
+predict: Statistics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: Mathematics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Mechanical Engineering	real: Philosophy
+predict: Sociology	real: Judaic Studies
+predict: Mathematics	real: Ancient Civiliz & Biblical Stu
+predict: Womens Studies	real: Religion
+predict: Sociology	real: Religion
+predict: Information	real: Religion
+predict: Slavic	real: Biology
+predict: Anthropology,Biological	real: Biology
+predict: Spanish	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Mechanical Engineering	real: Biology
+predict: Biology	real: Biology
+predict: Economics	real: Biology
+predict: Anthropology	real: Biology
+predict: Composition	real: Biology
+predict: Biology	real: Biology
+predict: Ecology & Evolutionary Biology	real: Biology
+predict: Mathematics	real: Ecology & Evolutionary Biology
+predict: Mathematics	real: Biology
+predict: Mathematics	real: English Lang & Literature
+predict: Business	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: American Culture	real: English Lang & Literature
+predict: Business	real: English Lang & Literature
+predict: Engineering	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Spanish	real: English Lang & Literature
+predict: Spanish	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Education	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: German	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: Chemistry	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Art and Design	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: History	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Physics	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: History	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Biology
+predict: Elec Engin & Computer Sci	real: Biology
+predict: Biology	real: Biology
+predict: Chemistry	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Elec Engin & Computer Sci	real: Biology
+predict: Biology	real: Biology
+predict: Economics	real: Biology
+predict: Biology	real: Biology
+predict: History	real: Biology
+predict: Elec Engin & Computer Sci	real: Dutch
+predict: Industrial & Operations Engin	real: Dutch
+predict: English Lang & Literature	real: Dutch
+predict: History	real: Dutch
+predict: German	real: Dutch
+predict: Spanish	real: Dutch
+predict: English Lang & Literature	real: Dutch
+predict: English Lang & Literature	real: Dutch
+predict: Spanish	real: Dutch
+predict: Architecture	real: Dutch
+predict: Classical Civilization	real: Dutch
+predict: Psychology	real: Dutch
+predict: English Lang & Literature	real: Dutch
+predict: Composition	real: Dutch
+predict: French	real: Dutch
+predict: Composition	real: Dutch
+predict: English Lang & Literature	real: Dutch
+predict: Spanish	real: Dutch
+predict: Philosophy	real: Philosophy
+predict: American Culture	real: Philosophy
+predict: History	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: History	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: Elec Engin & Computer Sci	real: Philosophy
+predict: Economics	real: Philosophy
+predict: Civil & Environmental Engin	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Chemical Engineering	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Mechanical Engineering	real: Philosophy
+predict: French	real: Technology & Operations
+predict: Information	real: Statistics
+predict: Spanish	real: Sociology
+predict: Economics	real: Sociology
+predict: History	real: Engineering
+predict: Communication Studies	real: Engineering
+predict: Earth & Environmental Sciences	real: Engineering
+predict: Information	real: Engineering
+predict: Chemistry	real: Engineering
+predict: Political Science	real: English Lang & Literature
+predict: Physics	real: English Lang & Literature
+predict: Engineering	real: Engineering
+predict: Spanish	real: Engineering
+predict: Engineering	real: English Lang & Literature
+predict: History	real: English Lang & Literature
+predict: Spanish	real: English Lang & Literature
+predict: Economics	real: English Lang & Literature
+predict: History	real: English Lang & Literature
+predict: English Lang & Literature	real: Engineering
+predict: Engineering	real: English Lang & Literature
+predict: Sociology	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: Sociology	real: Sociology
+predict: Spanish	real: Sociology
+predict: Sociology	real: Sociology
+predict: History	real: Sociology
+predict: Sociology	real: Sociology
+predict: Sociology	real: Sociology
+predict: Political Science	real: Sociology
+predict: Physics	real: Sociology
+predict: Mathematics	real: Sociology
+predict: Mathematics	real: Sociology
+predict: Sociology	real: Sociology
+predict: Sociology	real: Sociology
+predict: History	real: Sociology
+predict: Spanish	real: Linguistics
+predict: Statistics	real: Linguistics
+predict: Psychology	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: Sociology	real: Linguistics
+predict: Political Science	real: Linguistics
+predict: Elec Engin & Computer Sci	real: Linguistics
+predict: French	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Nursing	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Mathematics	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Elec Engin & Computer Sci	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Chemistry	real: Linguistics
+predict: Engineering	real: Linguistics
+predict: German	real: Scandinavian
+predict: Sociology	real: Scandinavian
+predict: Spanish	real: Scandinavian
+predict: Anthropology	real: Scandinavian
+predict: Classical Civilization	real: Scandinavian
+predict: Scandinavian	real: Scandinavian
+predict: English Lang & Literature	real: Scandinavian
+predict: Spanish	real: Medieval & Early Modern Std
+predict: English Lang & Literature	real: Scandinavian
+predict: Classical Civilization	real: German
+predict: Spanish	real: Scandinavian
+predict: Spanish	real: Scandinavian
+predict: Classical Civilization	real: Medieval & Early Modern Std
+predict: Physics	real: Scandinavian
+predict: Spanish	real: Scandinavian
+predict: Spanish	real: Scandinavian
+predict: Spanish	real: Scandinavian
+predict: History	real: Arab, Armen, Pers, Turk& Islam
+predict: History	real: Arab, Armen, Pers, Turk& Islam
+predict: Womens Studies	real: Arab, Armen, Pers, Turk& Islam
+predict: English Lang & Literature	real: Arab, Armen, Pers, Turk& Islam
+predict: Arab, Armen, Pers, Turk& Islam	real: Arab, Armen, Pers, Turk& Islam
+predict: History	real: Arab, Armen, Pers, Turk& Islam
+predict: Womens Studies	real: Arab, Armen, Pers, Turk& Islam
+predict: Mechanical Engineering	real: Arab, Armen, Pers, Turk& Islam
+predict: English Lang & Literature	real: Arab, Armen, Pers, Turk& Islam
+predict: Political Science	real: Arab, Armen, Pers, Turk& Islam
+predict: Arab, Armen, Pers, Turk& Islam	real: Arab, Armen, Pers, Turk& Islam
+predict: English Lang & Literature	real: Political Science
+predict: Elec Engin & Computer Sci	real: Political Science
+predict: Movement Science	real: Political Science
+predict: Political Science	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Mathematics	real: Political Science
+predict: Womens Studies	real: Political Science
+predict: History	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Political Science	real: Political Science
+predict: Composition	real: Political Science
+predict: Spanish	real: Political Science
+predict: History	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Political Science	real: Political Science
+predict: Screen Arts & Cultures	real: Political Science
+predict: Psychology	real: Political Science
+predict: Nursing	real: Chemical Engineering
+predict: History	real: Sociology
+predict: Psychology	real: Sociology
+predict: Afroamerican & African Studies	real: Anthropology,Cultural
+predict: Afroamerican & African Studies	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: Afroamerican & African Studies	real: Anthropology
+predict: Elec Engin & Computer Sci	real: Linguistics
+predict: Afroamerican & African Studies	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Spanish	real: Linguistics
+predict: Sociology	real: Linguistics
+predict: Sociology	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: Engineering	real: Linguistics
+predict: Classical Civilization	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: Communication Studies	real: Linguistics
+predict: English Lang & Literature	real: Linguistics
+predict: Linguistics	real: Linguistics
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Biology	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Psychology	real: Spanish
+predict: Mathematics	real: Spanish
+predict: Economics	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Mathematics	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Asian Studies	real: Asian Languages
+predict: French	real: Asian Studies
+predict: Asian Studies	real: Asian Studies
+predict: Spanish	real: Asian Languages
+predict: Mathematics	real: Asian Languages
+predict: Composition	real: Composition
+predict: Mathematics	real: Composition
+predict: Composition	real: Composition
+predict: Screen Arts & Cultures	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Composition	real: Composition
+predict: Mathematics	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Nursing	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Art and Design	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Business	real: Composition
+predict: Composition	real: Composition
+predict: Political Science	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Business	real: Marketing
+predict: History	real: Marketing
+predict: Biology	real: Marketing
+predict: Business	real: Marketing
+predict: Psychology	real: Marketing
+predict: Marketing	real: Marketing
+predict: Physics	real: Marketing
+predict: Nursing	real: Marketing
+predict: Psychology	real: Marketing
+predict: Biology	real: Marketing
+predict: Elec Engin & Computer Sci	real: Marketing
+predict: Marketing	real: Marketing
+predict: Business Econ & Public Policy	real: Marketing
+predict: Biology	real: Marketing
+predict: History	real: Marketing
+predict: Economics	real: Marketing
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Chemistry	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Elec Engin & Computer Sci	real: Psychology
+predict: Psychology	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Social Work	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Economics	real: Psychology
+predict: Mathematics	real: Psychology
+predict: Mathematics	real: Mathematics
+predict: Physics	real: Mathematics
+predict: Industrial & Operations Engin	real: Mathematics
+predict: Psychology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Social Work	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Screen Arts & Cultures	real: Mathematics
+predict: Economics	real: Mathematics
+predict: Ancient Civiliz & Biblical Stu	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Asian Studies	real: Mathematics
+predict: Information	real: Mathematics
+predict: Information	real: Mathematics
+predict: Mathematics	real: Economics
+predict: English Lang & Literature	real: Economics
+predict: Economics	real: Economics
+predict: Physics	real: Economics
+predict: History	real: Economics
+predict: Economics	real: Economics
+predict: Nursing	real: Economics
+predict: Information	real: Economics
+predict: Mathematics	real: Economics
+predict: Spanish	real: Economics
+predict: Mathematics	real: Economics
+predict: Mathematics	real: Economics
+predict: Economics	real: Economics
+predict: Economics	real: Economics
+predict: History	real: Economics
+predict: Ensemble	real: Elec Engin & Computer Sci
+predict: Physics	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: History	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Linguistics	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Political Science	real: Elec Engin & Computer Sci
+predict: Political Science	real: Elec Engin & Computer Sci
+predict: French	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Sociology	real: Philosophy
+predict: Spanish	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Philosophy	real: Political Science
+predict: Ecology & Evolutionary Biology	real: Philosophy
+predict: History	real: Philosophy
+predict: History	real: Philosophy
+predict: Anthropology	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: History	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Elec Engin & Computer Sci	real: Spanish
+predict: History	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Elec Engin & Computer Sci	real: Spanish
+predict: Spanish	real: Spanish
+predict: Chemistry	real: Spanish
+predict: Spanish	real: Spanish
+predict: English Lang & Literature	real: Spanish
+predict: History	real: History
+predict: Environment	real: History
+predict: Sociology	real: History
+predict: History	real: History
+predict: History	real: History
+predict: American Culture	real: History
+predict: History	real: History
+predict: Psychology	real: History
+predict: English Lang & Literature	real: History
+predict: Chemistry	real: History
+predict: Psychology	real: History
+predict: Sociology	real: History
+predict: History	real: History
+predict: History	real: History
+predict: French	real: History
+predict: Economics	real: American Culture
+predict: Arab, Armen, Pers, Turk& Islam	real: Spanish
+predict: Spanish	real: RC Languages
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: English Lang & Literature	real: Spanish
+predict: English Lang & Literature	real: RC Humanities
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Biology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Biology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Psychology	real: Psychology
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Social Work	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mechanical Engineering	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mechanical Engineering	real: Mathematics
+predict: Chemistry	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Engineering	real: Engineering
+predict: Engineering	real: Engineering
+predict: Information	real: English Lang & Literature
+predict: Mathematics	real: Engineering
+predict: Business	real: Engineering
+predict: Information	real: Engineering
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Engineering	real: Engineering
+predict: Business	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Engineering	real: English Lang & Literature
+predict: Mathematics	real: Biology
+predict: French	real: Chemistry
+predict: Communication Studies	real: Dance
+predict: Art and Design	real: Dance
+predict: Information	real: Jazz & Improvisational Studies
+predict: English Lang & Literature	real: Dance
+predict: Mathematics	real: Dance
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: History	real: Business Administration
+predict: Biology	real: Biology
+predict: Anthropology	real: Biology
+predict: Biology	real: Biology
+predict: Engineering	real: Biology
+predict: Economics	real: Biology
+predict: Anthropology	real: Biology
+predict: Geography	real: Biology
+predict: Chemistry	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Art and Design	real: Mathematics
+predict: Art and Design	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: Education	real: Mathematics
+predict: Education	real: Mathematics
+predict: Political Science	real: History
+predict: English Lang & Literature	real: History
+predict: History	real: History
+predict: Psychology	real: History
+predict: Spanish	real: History
+predict: Spanish	real: History
+predict: Chemistry	real: History
+predict: Composition	real: History
+predict: History	real: History
+predict: Psychology	real: History
+predict: History	real: History
+predict: History	real: Arab, Armen, Pers, Turk& Islam
+predict: Political Science	real: Arab, Armen, Pers, Turk& Islam
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: Information	real: Ancient Civiliz & Biblical Stu
+predict: Composition	real: Ancient Civiliz & Biblical Stu
+predict: Latin	real: Latin
+predict: Mathematics	real: Latin
+predict: Elec Engin & Computer Sci	real: Latin
+predict: Latin	real: Latin
+predict: Latin	real: Latin
+predict: Latin	real: Latin
+predict: Mathematics	real: Latin
+predict: Political Science	real: Latin
+predict: Psychology	real: Latin
+predict: Latin	real: Latin
+predict: Latin	real: Latin
+predict: Mathematics	real: Latin
+predict: Latin	real: Latin
+predict: Political Science	real: History
+predict: Geography	real: History
+predict: English Lang & Literature	real: History
+predict: Mathematics	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Biology
+predict: Biological Chemistry	real: Biology
+predict: Chemistry	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Biology
+predict: Biology	real: Biology
+predict: Chemistry	real: Biology
+predict: Biology	real: Biology
+predict: English Lang & Literature	real: Biology
+predict: Mathematics	real: Biology
+predict: Chemistry	real: Psychology
+predict: Biology	real: Psychology
+predict: Economics	real: Biology
+predict: Biology	real: Biology
+predict: RC Core Courses	real: Biology
+predict: History	real: Biology
+predict: Psychology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Marketing	real: Biology
+predict: Psychology	real: Biology
+predict: Mathematics	real: Biology
+predict: Political Science	real: Elec Engin & Computer Sci
+predict: Education	real: Elec Engin & Computer Sci
+predict: Education	real: Elec Engin & Computer Sci
+predict: Education	real: Education
+predict: Asian Studies	real: Education
+predict: Education	real: Education
+predict: Composition	real: Education
+predict: Screen Arts & Cultures	real: Education
+predict: Education	real: Education
+predict: Information	real: Education
+predict: German	real: Education
+predict: Economics	real: Business
+predict: Psychology	real: Business
+predict: Elec Engin & Computer Sci	real: Business
+predict: Anthropology	real: Business
+predict: Screen Arts & Cultures	real: Business
+predict: Spanish	real: Business
+predict: Marketing	real: Business
+predict: Marketing	real: English Lang & Literature
+predict: Psychology	real: Business
+predict: English Lang & Literature	real: Mathematics
+predict: Physics	real: Mathematics
+predict: Philosophy	real: Mathematics
+predict: Mechanical Engineering	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Spanish	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: History	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Information	real: Mathematics
+predict: Art and Design	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Psychology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Business	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Business	real: Psychology
+predict: Mathematics	real: Psychology
+predict: Biology	real: Psychology
+predict: Biology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Biology	real: Biology
+predict: Elec Engin & Computer Sci	real: Biology
+predict: Elec Engin & Computer Sci	real: Biology
+predict: Biology	real: Biology
+predict: Nursing	real: Business
+predict: Nursing	real: Business
+predict: Statistics	real: Business
+predict: Economics	real: Business
+predict: Spanish	real: Business
+predict: French	real: English Lang & Literature
+predict: Astronomy	real: English Lang & Literature
+predict: Chemistry	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Asian Studies	real: English Lang & Literature
+predict: Elec Engin & Computer Sci	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Physics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Air Force Officer Education
+predict: Mathematics	real: Air Force Officer Education
+predict: Mathematics	real: Air Force Officer Education
+predict: Mathematics	real: Air Force Officer Education
+predict: Mathematics	real: Air Force Officer Education
+predict: Civil & Environmental Engin	real: Air Force Officer Education
+predict: Mathematics	real: Air Force Officer Education
+predict: Economics	real: Economics
+predict: Mathematics	real: Economics
+predict: Molec, Cell & Develop Biology	real: Economics
+predict: English Lang & Literature	real: Economics
+predict: Ecology & Evolutionary Biology	real: Economics
+predict: Statistics	real: Economics
+predict: English Lang & Literature	real: Economics
+predict: Elec Engin & Computer Sci	real: Economics
+predict: Mathematics	real: Economics
+predict: Mechanical Engineering	real: Economics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Information	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Earth & Environmental Sciences	real: Elec Engin & Computer Sci
+predict: Environment	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Mathematics	real: Elec Engin & Computer Sci
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Economics	real: Elec Engin & Computer Sci
+predict: Physics	real: Elec Engin & Computer Sci
+predict: Chemistry	real: Economics
+predict: Marketing	real: Economics
+predict: Mathematics	real: Economics
+predict: Biological Chemistry	real: Economics
+predict: Elec Engin & Computer Sci	real: Economics
+predict: Mechanical Engineering	real: Economics
+predict: Education	real: Economics
+predict: Spanish	real: Economics
+predict: Mechanical Engineering	real: Economics
+predict: Mathematics	real: Spanish
+predict: Spanish	real: Spanish
+predict: English Lang & Literature	real: Spanish
+predict: Mathematics	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Nursing	real: Spanish
+predict: Business Econ & Public Policy	real: Spanish
+predict: Information	real: Spanish
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Psychology	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: Political Science
+predict: Political Science	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Economics	real: Political Science
+predict: Classical Civilization	real: Political Science
+predict: Political Science	real: Political Science
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Art and Design	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Spanish	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Biology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Economics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Statistics
+predict: Political Science	real: Statistics
+predict: Statistics	real: Statistics
+predict: Political Science	real: Political Science
+predict: Engineering	real: Statistics
+predict: Communication Studies	real: Political Science
+predict: Psychology	real: Political Science
+predict: Atmos, Oceanic & Space Sci	real: Political Science
+predict: Communication Studies	real: Political Science
+predict: Physics	real: Physics
+predict: Spanish	real: Physics
+predict: Biology	real: Physics
+predict: Physics	real: Physics
+predict: Mechanical Engineering	real: Physics
+predict: Mathematics	real: Physics
+predict: Physics	real: Physics
+predict: Economics	real: Afroamerican & African Studies
+predict: Psychology	real: Afroamerican & African Studies
+predict: English Lang & Literature	real: Art and Design
+predict: Spanish	real: Physics
+predict: Chemistry	real: Physics
+predict: Screen Arts & Cultures	real: Physics
+predict: Biology	real: Physics
+predict: Physics	real: Physics
+predict: Spanish	real: Physics
+predict: Engineering	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Information	real: Spanish
+predict: Spanish	real: Spanish
+predict: Spanish	real: Spanish
+predict: Information	real: Spanish
+predict: Womens Studies	real: Architecture
+predict: Classical Civilization	real: Anthropology
+predict: History	real: Anthropology
+predict: Information	real: Anthropology
+predict: Information	real: Anthropology,Cultural
+predict: English Lang & Literature	real: Economics
+predict: English Lang & Literature	real: Economics
+predict: Psychology	real: Economics
+predict: Education	real: Economics
+predict: Statistics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Psychology	real: Political Science
+predict: Political Science	real: Political Science
+predict: Political Science	real: Political Science
+predict: Economics	real: Political Science
+predict: Political Science	real: Political Science
+predict: Biology	real: Political Science
+predict: Political Science	real: Political Science
+predict: Political Science	real: Political Science
+predict: French	real: Lloyd Hall Scholars Program
+predict: English Lang & Literature	real: Lloyd Hall Scholars Program
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: Lloyd Hall Scholars Program
+predict: English Lang & Literature	real: Lloyd Hall Scholars Program
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Psychology	real: Communication Studies
+predict: Education	real: Communication Studies
+predict: Physics	real: Chemistry
+predict: Biology	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Asian Studies	real: Chemistry
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Spanish	real: Psychology
+predict: Economics	real: Psychology
+predict: Business Administration	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Asian Studies	real: Molec, Cell & Develop Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: History	real: Biology
+predict: Economics	real: Biology
+predict: Biology	real: Biology
+predict: Economics	real: Biology
+predict: American Culture	real: Earth & Environmental Sciences
+predict: Chemistry	real: Earth & Environmental Sciences
+predict: Biology	real: Earth & Environmental Sciences
+predict: Chemistry	real: Earth & Environmental Sciences
+predict: Elec Engin & Computer Sci	real: Earth & Environmental Sciences
+predict: Psychology	real: Geography
+predict: History	real: Ensemble
+predict: English Lang & Literature	real: Ensemble
+predict: Ensemble	real: Ensemble
+predict: Information	real: Ensemble
+predict: German	real: Ensemble
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Chemistry	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Spanish	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Mathematics	real: Philosophy
+predict: Classical Civilization	real: Philosophy
+predict: Information	real: Philosophy
+predict: Information	real: Philosophy
+predict: Chemistry	real: Philosophy
+predict: Statistics	real: Civil & Environmental Engin
+predict: Statistics	real: Civil & Environmental Engin
+predict: Mathematics	real: Civil & Environmental Engin
+predict: Information	real: Civil & Environmental Engin
+predict: Geography	real: Civil & Environmental Engin
+predict: Statistics	real: Civil & Environmental Engin
+predict: History	real: English Lang & Literature
+predict: Psychology	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: Civil & Environmental Engin
+predict: Womens Studies	real: Civil & Environmental Engin
+predict: Chemistry	real: Civil & Environmental Engin
+predict: Anthropology	real: Civil & Environmental Engin
+predict: Information	real: Civil & Environmental Engin
+predict: Industrial & Operations Engin	real: Civil & Environmental Engin
+predict: Mathematics	real: Mathematics
+predict: Mechanical Engineering	real: Mathematics
+predict: French	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Womens Studies	real: Mathematics
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Communication Studies	real: Psychology
+predict: English Lang & Literature	real: Psychology
+predict: Information	real: Psychology
+predict: Sociology	real: History of Art
+predict: English Lang & Literature	real: History
+predict: Mathematics	real: Industrial & Operations Engin
+predict: Mathematics	real: Industrial & Operations Engin
+predict: English Lang & Literature	real: Industrial & Operations Engin
+predict: Mathematics	real: Industrial & Operations Engin
+predict: Elec Engin & Computer Sci	real: Industrial & Operations Engin
+predict: Linguistics	real: Industrial & Operations Engin
+predict: American Culture	real: University Courses
+predict: Biology	real: Information
+predict: Information	real: Information
+predict: Information	real: Information
+predict: German	real: Information
+predict: Theory	real: Musicology
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: Sweetland Center for Writing
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Composition	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Elec Engin & Computer Sci	real: Elec Engin & Computer Sci
+predict: Economics	real: English Lang & Literature
+predict: Psychology	real: English Lang & Literature
+predict: Chemistry	real: Engineering
+predict: Engineering	real: Elec Engin & Computer Sci
+predict: Astronomy	real: Geography
+predict: Earth & Environmental Sciences	real: Geography
+predict: Education	real: Geography
+predict: English Lang & Literature	real: Geography
+predict: English Lang & Literature	real: Sociology
+predict: Business	real: Sociology
+predict: Physics	real: Sociology
+predict: English Lang & Literature	real: Asian Languages
+predict: Asian Studies	real: Asian Languages
+predict: Economics	real: Asian Languages
+predict: English Lang & Literature	real: Asian Languages
+predict: English Lang & Literature	real: Ensemble
+predict: Information	real: Ensemble
+predict: Mathematics	real: Industrial & Operations Engin
+predict: Economics	real: Industrial & Operations Engin
+predict: Economics	real: Industrial & Operations Engin
+predict: Business	real: Industrial & Operations Engin
+predict: History	real: Industrial & Operations Engin
+predict: Political Science	real: Biophysics
+predict: Chemistry	real: Biophysics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Linguistics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: Biology
+predict: History	real: Political Science
+predict: Political Science	real: Political Science
+predict: Mathematics	real: French
+predict: Spanish	real: French
+predict: French	real: French
+predict: French	real: French
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: French	real: English Lang & Literature
+predict: Political Science	real: Political Science
+predict: Psychology	real: Political Science
+predict: English Lang & Literature	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: History	real: English Lang & Literature
+predict: Biology	real: English Lang & Literature
+predict: History	real: Anthropology
+predict: Philosophy	real: Anthropology
+predict: Philosophy	real: Anthropology
+predict: Anthropology	real: Anthropology
+predict: Physics	real: Public Policy
+predict: Economics	real: Economics
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Social Work	real: English Lang & Literature
+predict: Psychology	real: English Lang & Literature
+predict: Mathematics	real: Mechanical Engineering
+predict: Anthropology	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Physics	real: Engineering
+predict: Communication Studies	real: Communication Studies
+predict: Communication Studies	real: Communication Studies
+predict: History	real: Communication Studies
+predict: Anthropology	real: Social Work
+predict: Sociology	real: Social Work
+predict: Mathematics	real: Sociology
+predict: Composition	real: Sociology
+predict: German	real: German
+predict: German	real: German
+predict: Screen Arts & Cultures	real: German
+predict: Urban Planning	real: Political Science
+predict: Political Science	real: Political Science
+predict: Psychology	real: Political Science
+predict: Information	real: History
+predict: Mathematics	real: History
+predict: Communication Studies	real: History
+predict: Linguistics	real: Psychology
+predict: Engineering	real: Psychology
+predict: Engineering	real: Psychology
+predict: Psychology	real: Business
+predict: Mathematics	real: Business
+predict: Business	real: Business
+predict: Geography	real: Business
+predict: Social Work	real: Spanish
+predict: Elec Engin & Computer Sci	real: Spanish
+predict: Chemistry	real: Spanish
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Molec, Cell & Develop Biology	real: Elec Engin & Computer Sci
+predict: Sociology	real: Elec Engin & Computer Sci
+predict: Astronomy	real: Elec Engin & Computer Sci
+predict: Mechanical Engineering	real: Mechanical Engineering
+predict: Biology	real: Mechanical Engineering
+predict: History	real: Mechanical Engineering
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: History	real: English Lang & Literature
+predict: Psychology	real: Psychology
+predict: Mathematics	real: Psychology
+predict: Biology	real: Psychology
+predict: Physics	real: American Culture
+predict: American Culture	real: Womens Studies
+predict: Environment	real: Womens Studies
+predict: Composition	real: Womens Studies
+predict: Information	real: Spanish
+predict: Greek	real: Spanish
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Physics	real: Mathematics
+predict: Earth & Environmental Sciences	real: Astronomy
+predict: Astronomy	real: Astronomy
+predict: English Lang & Literature	real: French
+predict: Biology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Social Work	real: Social Work
+predict: Social Work	real: Social Work
+predict: Elec Engin & Computer Sci	real: Asian Languages
+predict: English Lang & Literature	real: Asian Languages
+predict: Marketing	real: English Lang & Literature
+predict: Political Science	real: Psychology
+predict: Political Science	real: Psychology
+predict: Afroamerican & African Studies	real: Architecture
+predict: Architecture	real: Architecture
+predict: German	real: English Lang & Literature
+predict: Art and Design	real: English Lang & Literature
+predict: Psychology	real: Anthropology
+predict: Communication Studies	real: Anthropology
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Chemistry	real: Asian Languages
+predict: Chemistry	real: Asian Languages
+predict: Communication Studies	real: Political Science
+predict: Political Science	real: Political Science
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Civil & Environmental Engin	real: Physics
+predict: Mathematics	real: Physics
+predict: English Lang & Literature	real: Theatre & Drama
+predict: Biology	real: Sociology
+predict: Mathematics	real: Sociology
+predict: Psychology	real: Psychology
+predict: Spanish	real: Spanish
+predict: History	real: Economics
+predict: Mathematics	real: Chemistry
+predict: Information	real: Air Force Officer Education
+predict: Composition	real: Sociology
+predict: Elec Engin & Computer Sci	real: Chemical Engineering
+predict: Biology	real: Chemistry
+predict: Psychology	real: Linguistics
+predict: English Lang & Literature	real: Ecology & Evolutionary Biology
+predict: Physics	real: Elec Engin & Computer Sci
+predict: English Lang & Literature	real: RC Core Courses
+predict: Spanish	real: Spanish
+predict: History	real: Psychology
+predict: French	real: Education
+predict: History	real: History
+predict: Mathematics	real: Mathematics
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: Spanish	real: History
+predict: Elec Engin & Computer Sci	real: History
+predict: Spanish	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: History	real: History
+predict: Elec Engin & Computer Sci	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Industrial & Operations Engin	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Economics	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Mechanical Engineering	real: Mechanical Engineering
+predict: History	real: Mechanical Engineering
+predict: Screen Arts & Cultures	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: English Lang & Literature	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Elec Engin & Computer Sci	real: Mechanical Engineering
+predict: Industrial & Operations Engin	real: Mechanical Engineering
+predict: Mathematics	real: Mechanical Engineering
+predict: Biology	real: Mechanical Engineering
+predict: Screen Arts & Cultures	real: Mechanical Engineering
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Psychology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Air Force Officer Education	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Spanish	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Nursing	real: Psychology
+predict: Psychology	real: Psychology
+predict: Biology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Biology	real: Psychology
+predict: Economics	real: Psychology
+predict: Business	real: Psychology
+predict: Psychology	real: Psychology
+predict: Sociology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Psychology	real: Psychology
+predict: Business Econ & Public Policy	real: Psychology
+predict: Psychology	real: Psychology
+predict: Linguistics	real: Psychology
+predict: Spanish	real: Psychology
+predict: Spanish	real: Psychology
+predict: Earth & Environmental Sciences	real: Classical Civilization
+predict: Classical Civilization	real: Classical Civilization
+predict: History	real: Classical Civilization
+predict: Classical Civilization	real: Classical Civilization
+predict: Biology	real: Classical Civilization
+predict: Communication Studies	real: Classical Civilization
+predict: Italian	real: Classical Civilization
+predict: Anthropology	real: Classical Civilization
+predict: Spanish	real: Classical Civilization
+predict: Physics	real: Classical Civilization
+predict: Mathematics	real: Classical Civilization
+predict: English Lang & Literature	real: Classical Civilization
+predict: Political Science	real: Classical Civilization
+predict: Mathematics	real: Classical Civilization
+predict: Classical Civilization	real: Classical Civilization
+predict: Information	real: Classical Civilization
+predict: English Lang & Literature	real: Classical Civilization
+predict: Latin	real: Latin
+predict: Italian	real: Classical Civilization
+predict: English Lang & Literature	real: Classical Civilization
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Ancient Civiliz & Biblical Stu	real: English Lang & Literature
+predict: Biology	real: English Lang & Literature
+predict: University Courses	real: English Lang & Literature
+predict: Elec Engin & Computer Sci	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Economics	real: English Lang & Literature
+predict: Philosophy	real: Philosophy
+predict: Elec Engin & Computer Sci	real: Philosophy
+predict: Mathematics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Sociology	real: Philosophy
+predict: Social Work	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: History	real: Philosophy
+predict: Geography	real: Philosophy
+predict: Industrial & Operations Engin	real: Philosophy
+predict: Biology	real: Philosophy
+predict: American Culture	real: Philosophy
+predict: Physics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Marketing	real: Philosophy
+predict: Sociology	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Anthropology	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Psychology	real: Sociology
+predict: Economics	real: Sociology
+predict: Psychology	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: Engineering	real: Sociology
+predict: Screen Arts & Cultures	real: Sociology
+predict: Spanish	real: Sociology
+predict: Political Science	real: Sociology
+predict: Psychology	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: Psychology	real: Sociology
+predict: Composition	real: Sociology
+predict: Nursing	real: Sociology
+predict: Mechanical Engineering	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Physics	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Art and Design	real: Philosophy
+predict: Astronomy	real: Philosophy
+predict: Physics	real: Philosophy
+predict: Linguistics	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Mathematics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Earth & Environmental Sciences	real: Philosophy
+predict: Mathematics	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Physics	real: Philosophy
+predict: Engineering	real: Philosophy
+predict: Womens Studies	real: Philosophy
+predict: Mechanical Engineering	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Arab, Armen, Pers, Turk& Islam	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Philosophy	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Business	real: Mathematics
+predict: Information	real: Complex Systems
+predict: Elec Engin & Computer Sci	real: Complex Systems
+predict: English Lang & Literature	real: Complex Systems
+predict: Business	real: Complex Systems
+predict: Industrial & Operations Engin	real: Sociology
+predict: Musicology	real: Complex Systems
+predict: Elec Engin & Computer Sci	real: Political Science
+predict: Political Science	real: Political Science
+predict: English Lang & Literature	real: Complex Systems
+predict: Political Science	real: Political Science
+predict: Mathematics	real: Political Science
+predict: Political Science	real: Political Science
+predict: Mathematics	real: Complex Systems
+predict: Political Science	real: Political Science
+predict: History	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Spanish	real: English Lang & Literature
+predict: Architecture	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Geography	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Composition	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Information	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Art and Design	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Political Science	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Business	real: English Lang & Literature
+predict: Elec Engin & Computer Sci	real: Engineering
+predict: Anthropology	real: Engineering
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Mathematics	real: Engineering
+predict: Engineering	real: Engineering
+predict: Elec Engin & Computer Sci	real: English Lang & Literature
+predict: Psychology	real: Engineering
+predict: English Lang & Literature	real: Engineering
+predict: Elec Engin & Computer Sci	real: Engineering
+predict: Engineering	real: Engineering
+predict: Political Science	real: Engineering
+predict: Engineering	real: Engineering
+predict: Engineering	real: Engineering
+predict: Astronomy	real: Engineering
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Biology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Atmos, Oceanic & Space Sci	real: Mathematics
+predict: Engineering	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Physics	real: Mathematics
+predict: Engineering	real: Mathematics
+predict: Statistics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Economics	real: Mathematics
+predict: Political Science	real: Composition
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Spanish	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: Composition	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: English Lang & Literature	real: Composition
+predict: American Culture	real: Composition
+predict: Screen Arts & Cultures	real: Composition
+predict: Screen Arts & Cultures	real: Composition
+predict: Screen Arts & Cultures	real: Composition
+predict: Composition	real: Composition
+predict: Composition	real: Composition
+predict: Mathematics	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: History	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: Spanish	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: English Lang & Literature	real: English Lang & Literature
+predict: German	real: German
+predict: German	real: German
+predict: German	real: German
+predict: German	real: German
+predict: German	real: German
+predict: Spanish	real: German
+predict: English Lang & Literature	real: German
+predict: German	real: German
+predict: English Lang & Literature	real: German
+predict: English Lang & Literature	real: German
+predict: Spanish	real: German
+predict: German	real: German
+predict: Engineering	real: English Lang & Literature
+predict: American Culture	real: Engineering
+predict: Mathematics	real: Engineering
+predict: Engineering	real: Engineering
+predict: Mathematics	real: English Lang & Literature
+predict: Mathematics	real: English Lang & Literature
+predict: Communication Studies	real: Engineering
+predict: Elec Engin & Computer Sci	real: English Lang & Literature
+predict: Chemistry	real: Engineering
+predict: Communication Studies	real: English Lang & Literature
+predict: Engineering	real: Engineering
+predict: History	real: Political Science
+predict: Political Science	real: Political Science
+predict: Sociology	real: Political Science
+predict: Political Science	real: Political Science
+predict: Philosophy	real: Political Science
+predict: Mathematics	real: Political Science
+predict: Spanish	real: Political Science
+predict: Biology	real: Political Science
+predict: Philosophy	real: Political Science
+predict: History	real: Political Science
+predict: History	real: Political Science
+predict: Biology	real: Political Science
+predict: Political Science	real: Political Science
+predict: Philosophy	real: Political Science
+predict: Philosophy	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: Business Administration	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: Geography	real: Philosophy
+predict: Asian Studies	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: Philosophy	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Political Science	real: Philosophy
+predict: Chemical Engineering	real: Philosophy
+predict: Psychology	real: Philosophy
+predict: English Lang & Literature	real: Philosophy
+predict: Business	real: Business
+predict: Business	real: Business
+predict: Education	real: Business
+predict: Mathematics	real: Business
+predict: Mathematics	real: Business
+predict: Mechanical Engineering	real: Business
+predict: Statistics	real: Business
+predict: Psychology	real: Business
+predict: Business	real: Business
+predict: Political Science	real: Business
+predict: English Lang & Literature	real: Business
+predict: Business	real: Business
+predict: Business	real: Business
+predict: Mathematics	real: Business
+predict: Business	real: Business
+predict: Business	real: Business
+predict: Education	real: Business
+predict: Psychology	real: Biology
+predict: Psychology	real: Biology
+predict: History	real: Biology
+predict: Biology	real: Biology
+predict: Psychology	real: Biology
+predict: Anthropology	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Biology
+predict: French	real: Biology
+predict: Mathematics	real: Biology
+predict: Psychology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Economics	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Communication Studies	real: Biology
+predict: Mathematics	real: Biology
+predict: Mathematics	real: Biology
+predict: Psychology	real: Sociology
+predict: Sociology	real: Sociology
+predict: Economics	real: Sociology
+predict: Communication Studies	real: Sociology
+predict: Business Administration	real: Sociology
+predict: Chemistry	real: Sociology
+predict: Biology	real: Sociology
+predict: Information	real: Sociology
+predict: Communication Studies	real: Sociology
+predict: Sociology	real: Sociology
+predict: History	real: Sociology
+predict: Earth & Environmental Sciences	real: Sociology
+predict: Sociology	real: Sociology
+predict: French	real: Sociology
+predict: Sociology	real: Sociology
+predict: Mathematics	real: Sociology
+predict: Mathematics	real: Political Science
+predict: Psychology	real: Political Science
+predict: Sociology	real: Political Science
+predict: Political Science	real: Political Science
+predict: Spanish	real: Political Science
+predict: Mathematics	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Air Force Officer Education	real: Political Science
+predict: Air Force Officer Education	real: Political Science
+predict: Marketing	real: Political Science
+predict: Political Science	real: Political Science
+predict: American Culture	real: Political Science
+predict: French	real: Political Science
+predict: Geography	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Political Science	real: Political Science
+predict: English Lang & Literature	real: Political Science
+predict: Mathematics	real: Mathematics
+predict: Chemistry	real: Chemistry
+predict: English Lang & Literature	real: Mathematics
+predict: Chemistry	real: Mathematics
+predict: Biology	real: Mathematics
+predict: Biology	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Political Science	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Elec Engin & Computer Sci	real: Chemistry
+predict: Physics	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Art and Design	real: Chemistry
+predict: Chemistry	real: Chemistry
+predict: Biology	real: Biology
+predict: Elec Engin & Computer Sci	real: Biology
+predict: Art and Design	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Physics	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Ecology & Evolutionary Biology
+predict: English Lang & Literature	real: Biology
+predict: Biology	real: Biology
+predict: History	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Psychology	real: Biology
+predict: English Lang & Literature	real: Ecology & Evolutionary Biology
+predict: Womens Studies	real: Biology
+predict: Economics	real: Biology
+predict: Psychology	real: Biology
+predict: Biology	real: Biology
+predict: Chemistry	real: Biology
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Spanish	real: Mathematics
+predict: Sociology	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Elec Engin & Computer Sci	real: Mathematics
+predict: Mathematics	real: Mathematics
+predict: English Lang & Literature	real: Mathematics
+predict: Philosophy	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Mathematics	real: Biology
+predict: Biology	real: Biology
+predict: Physics	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Physics	real: Biology
+predict: Geography	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Biology	real: Biology
+predict: Psychology	real: Sociology
+predict: Sociology	real: Sociology
+predict: Sociology	real: Sociology
+predict: Sociology	real: Sociology
+predict: Composition	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: Sociology	real: Sociology
+predict: Mathematics	real: Sociology
+predict: Psychology	real: Sociology
+predict: History	real: Social Work
+predict: History	real: Sociology
+predict: Sociology	real: Sociology
+predict: Political Science	real: Sociology
+predict: Art and Design	real: Sociology
+predict: English Lang & Literature	real: Sociology
+predict: History	real: Sociology
+predict: Sociology	real: Sociology
+predict: Marketing	real: Sociology
