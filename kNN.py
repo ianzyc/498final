@@ -171,7 +171,7 @@ def kNN_predict(class_vec_dict, test_vec_list):
             else:
                 score = 0.0
             score_dict[_class] = score
-        result_list.append(sorted(score_dict, key=score_dict.get, reverse=True)[0])
+        result_list.append(sorted(score_dict, key=score_dict.get, reverse=True)[0:5])
     return result_list
 
 ### main function below
@@ -187,9 +187,16 @@ if __name__ == '__main__':
     test_vec_list, test_class_list = preprocessTestData(test_file_name, inverted_index)
     result_list = kNN_predict(class_vec_dict, test_vec_list)
     correct = 0
+    precision = 0.0
+    recall = 0.0
     for i in range(0, len(result_list)):
-        print 'predict: %s\treal: %s' % (result_list[i], test_class_list[i])
-        if result_list[i] == test_class_list[i]:
+        print 'predict: %s\treal: %s' % (result_list[i][0], test_class_list[i])
+        if test_class_list[i] in result_list[i]:
+            precision += 0.2
+            recall += 1
+        if result_list[i][0] == test_class_list[i]:
             correct += 1
     print 'Accuracy is %f' % (1.0 * correct / len(test_vec_list))
+    print 'Precision is %f' % (precision / len(test_vec_list))
+    print 'Recall is %f' % (recall / len(test_vec_list))
 
